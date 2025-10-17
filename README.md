@@ -2,6 +2,16 @@
 
 Custom skills for [Claude Code](https://claude.ai/code) that work together to provide seamless web application testing and development.
 
+## Quickstart
+
+Quick install all skills
+```
+git clone https://github.com/scott2b/claude-skills.git ~/.claude/skills
+```
+
+Or install individual skills as documented below.
+
+
 ## Installation
 
 ### Prerequisites
