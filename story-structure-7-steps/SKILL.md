@@ -5,11 +5,11 @@ description: "Analyze and develop story structure using John Truby's Seven Key S
 
 # Story Structure: Seven Key Steps
 
-This skill helps writers analyze and develop story structure using John Truby's seven-step framework from *The Anatomy of Story*. These steps represent the organic DNA of storythe sequence any human being must work through to solve a life problem.
+This skill helps writers analyze and develop story structure using John Truby's seven-step framework from *The Anatomy of Story*. These steps represent the organic DNA of story—the sequence any human being must work through to solve a life problem.
 
 ## Purpose
 
-Truby's seven steps are based on **human action**the natural process of how people address problems in life. They help create stories with organic, internally generated structure, ensure heroes undergo meaningful character change, build dramatic conflict through competing desires, link all story elements to the premise line, avoid mechanical plot formulas, and achieve the greatest emotional impact on the audience.
+Truby's seven steps are based on **human action**—the natural process of how people address problems in life. They help create stories with organic, internally generated structure, ensure heroes undergo meaningful character change, build dramatic conflict through competing desires, link all story elements to the premise line, avoid mechanical plot formulas, and achieve the greatest emotional impact on the audience.
 
 ## When to Invoke This Skill
 
@@ -56,7 +56,7 @@ Based on what the writer has, choose the appropriate approach:
 
 **A. Forward Development (New Story)**
 If the writer has only a basic idea or concept:
-1. Start by working on the **self-revelation** (Step 6)determine the endpoint first
+1. Start by working on the **self-revelation** (Step 6)—determine the endpoint first
 2. Then work backward to figure out **need** (Step 1) and **desire** (Step 2)
 3. Build the rest of the structure from this foundation
 
