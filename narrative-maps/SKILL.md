@@ -49,6 +49,10 @@ When this skill is invoked, follow these steps to create a narrative map.
 
 ### Step 2: Build the Basic Map Infrastructure
 
+**Get the current date:**
+- In Claude Code: Use `date +%Y-%m-%d` command to get current date
+- In Claude Desktop/Web: Use the system date if available, or ask the user
+
 **Record spatial dimensions:**
 - Current word count
 - Page count (actual or estimated based on ~250 words/page)
@@ -58,7 +62,7 @@ When this skill is invoked, follow these steps to create a narrative map.
 Create a basic structural record:
 ```
 Draft: [Name]
-Date: [YYYY-MM-DD]
+Date: [YYYY-MM-DD from date command]
 Total word count: [number]
 Total pages: [number]
 
@@ -205,16 +209,17 @@ Based on the map, help the writer see:
 ### Step 10: Save or Present the Map
 
 **If in Claude Code (project directory access):**
-1. Ask where to save maps (suggest `maps/` or `process/maps/`)
-2. Create the chosen directory if it doesn't exist
-3. Save with descriptive filename: `YYYY-MM-DD-[draft-name]-map.md`
-4. Include both visual map and analysis
-5. Confirm the save location to the user
+1. Get current date using `date +%Y-%m-%d` command
+2. Ask where to save maps (suggest `maps/` or `process/maps/`)
+3. Create the chosen directory if it doesn't exist
+4. Save with descriptive filename using actual date: `YYYY-MM-DD-[draft-name]-map.md`
+5. Include both visual map and analysis
+6. Confirm the save location to the user
 
 **If in Claude Desktop/Web (no project directory):**
 1. Create the map as a formatted markdown artifact or downloadable file
 2. Present it in the chat for review
-3. Suggest saving it with filename: `YYYY-MM-DD-[draft-name]-map.md`
+3. Suggest saving it with filename using current date: `YYYY-MM-DD-[draft-name]-map.md`
 4. Offer to create alternative visualizations if requested
 
 ## Important Reminders

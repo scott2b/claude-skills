@@ -1,6 +1,6 @@
 # Map of [Draft Title]
 
-**Date**: [YYYY-MM-DD]
+**Date**: [YYYY-MM-DD from date command]
 **Draft analyzed**: [file path or description]
 
 ## Spatial Overview
