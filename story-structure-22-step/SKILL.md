@@ -5,7 +5,22 @@ description: Analyze and develop detailed story structure using John Truby's 22-
 
 # Story Structure: Twenty-Two Steps
 
+**PRIMARY DELIVERABLE: This skill creates timestamped reference documents saved to files.**
+
 This skill helps writers analyze and develop story structure using John Truby's twenty-two-step framework from *The Anatomy of Story*. These steps provide an extremely precise map of plot that allows writers to build stories steadily from beginning to end and avoid the fragmented, dead middle that plagues many narratives.
+
+## Critical: File Output is MANDATORY
+
+**This skill MUST save analysis to a timestamped file.** Conversational output alone is an incomplete task.
+
+Writers need persistent artifacts they can:
+- Reference throughout the drafting process
+- Update as the story evolves
+- Share with collaborators
+- Compare with future iterations
+
+**Success = A dated file exists (e.g., `2025-11-11-story-name-22-steps.md`)**
+**Failure = Only conversational output with no saved file**
 
 ## Purpose
 
@@ -38,11 +53,26 @@ Invoke this skill when writers need to:
 
 When this skill is invoked, follow these steps to analyze or develop twenty-two-step story structure.
 
-### Step 1: Detect Environment & Understand Context
+### Step 1: Establish Output Location FIRST
+
+**Before beginning analysis**, establish where the final document will be saved:
 
 **Determine the environment:**
 - With access to project directory and file system tools (Read, Write, Edit, Glob, Grep): Claude Code environment
 - With uploaded files or chat without direct project access: Claude Desktop/Web environment
+
+**In Claude Code:**
+1. Get current date: `date +%Y-%m-%d`
+2. Ask where to save structure analyses (suggest `structure/` or `process/structure/`)
+3. Make note of the filename format: `YYYY-MM-DD-[story-name]-22-steps.md`
+
+**In Claude Desktop/Web:**
+1. Note that output will be provided as formatted markdown artifact
+2. Remind user to save with timestamped filename: `YYYY-MM-DD-[story-name]-22-steps.md`
+
+This ensures the file creation is not forgotten and sets the proper context.
+
+### Step 2: Understand Story Context
 
 **Understand the story context:**
 1. Ask which story to analyze or develop
@@ -56,7 +86,7 @@ When this skill is invoked, follow these steps to analyze or develop twenty-two-
 
 **Length assessment**: Confirm the story is long enough to warrant 22 steps. Short stories and sitcoms typically only hit the seven major steps. Feature films, novels, and hour-long TV dramas usually need at least twenty-two steps.
 
-### Step 2: Assess Existing Foundation
+### Step 3: Assess Existing Foundation
 
 Before building the twenty-two steps, determine what foundation exists:
 
@@ -75,7 +105,7 @@ Before building the twenty-two steps, determine what foundation exists:
 
 **Reference**: See `references/truby-22-steps.md` for the relationship between the seven steps and twenty-two steps.
 
-### Step 3: Determine Analysis Approach
+### Step 4: Determine Analysis Approach
 
 Based on what the writer has, choose the appropriate approach:
 
@@ -104,9 +134,11 @@ If the writer knows the plot isn't working:
 
 Ask the writer which approach best fits their situation.
 
-### Step 4: Establish the Frame (Step 1)
+### Step 5: Establish the Frame (Step 1)
 
-Step 1 combines the endpoint (self-revelation) with the beginning (weakness, need, desire). This frame ensures every step leads toward where you want to go.
+Step 1 is a planning tool that combines the endpoint (Step 20: self-revelation) with the beginning (Step 3: weakness, need; Step 5: desire). This frame establishes the overall range of change for your hero and ensures every step leads toward where you want to go.
+
+**Important**: Steps 3, 5, and 20 will receive detailed treatment again in their proper sequential positions in Step 6 below. The Frame is a planning overview that sets the structural journey.
 
 **Work through these questions with the writer:**
 
@@ -128,7 +160,7 @@ Step 1 combines the endpoint (self-revelation) with the beginning (weakness, nee
 
 **Reference**: See `references/truby-22-steps.md` Step 1 for detailed guidance and examples.
 
-### Step 5: Build Steps 2-22 Systematically
+### Step 6: Build Steps 2-22 Systematically
 
 Work through each step in order. Consult `references/truby-22-steps.md` for detailed explanation of each step.
 
@@ -149,7 +181,25 @@ Work through each step in order. Consult `references/truby-22-steps.md` for deta
 
 #### Step 3: Weakness and Need
 
-*Already detailed in Step 1 frame above*
+Now give Step 3 detailed treatment in its proper sequential position:
+
+**Psychological weakness questions:**
+- What specific character flaw is so serious it's ruining the hero's life?
+- How is the inner person damaged?
+
+**Moral weakness questions:**
+- Is the hero clearly hurting at least one other person at the beginning of the story?
+- How does this weakness have a direct negative effect on someone else?
+
+**Need questions:**
+- What must the hero fulfill to have a better life?
+- What must they overcome to achieve this need?
+
+**Problem (immediate crisis):**
+- What trouble or crisis does the hero face at the very beginning?
+- How is this an outgrowth of the hero's weakness?
+
+**Reference**: See `references/truby-22-steps.md` Step 3 for detailed guidance on weakness types and openings.
 
 #### Step 4: Inciting Event
 
@@ -159,12 +209,19 @@ Work through each step in order. Consult `references/truby-22-steps.md` for deta
 
 #### Step 5: Desire
 
-*Already detailed in Step 1 frame above*
+Now give Step 5 detailed treatment in its proper sequential position:
 
-**Additional considerations:**
-- Is the goal specific enough?
+**Desire questions:**
+- What is the hero's particular goal?
+- Is it specific enough to provide a spine for the entire plot?
 - Does it extend through most of the story?
 - Does it start at a low enough level to build?
+
+**Building the desire:**
+- How will you increase the importance of the desire as the story progresses?
+- How will you increase the intensity and stakes of the desire without creating an entirely new desire?
+
+**Reference**: See `references/truby-22-steps.md` Step 5 for levels of desire and building techniques.
 
 #### Step 6: Ally or Allies
 
@@ -378,7 +435,7 @@ Work through each step in order. Consult `references/truby-22-steps.md` for deta
 - Has the hero moved to a higher or lower level?
 - What is the lasting impact of the hero's journey?
 
-### Step 6: Track the Revelations Sequence
+### Step 7: Track the Revelations Sequence
 
 Separate the reveals from the rest of the plot and examine them as one unit. Tracking the revelations sequence is one of the most valuable storytelling techniques.
 
@@ -400,7 +457,7 @@ Separate the reveals from the rest of the plot and examine them as one unit. Tra
 
 **Reference**: See `references/truby-22-steps.md` "Revelations Sequence" section for detailed guidance and examples.
 
-### Step 7: Assess Organic Connections
+### Step 8: Assess Organic Connections
 
 Verify that the twenty-two steps connect organically (not mechanically):
 
@@ -416,7 +473,7 @@ Verify that the twenty-two steps connect organically (not mechanically):
 
 **Identify weak connections** and suggest how to strengthen them.
 
-### Step 8: Provide Structural Analysis and Recommendations
+### Step 9: Provide Structural Analysis and Recommendations
 
 Based on the analysis:
 
@@ -443,25 +500,35 @@ Based on the analysis:
 
 **Compare to industry standards**: Average hit Hollywood film has 7-10 major reveals. How does this story compare?
 
-### Step 9: Create Twenty-Two-Step Structure Documentation
+### Step 10: Save Structure Documentation (REQUIRED)
+
+**MANDATORY: Do not consider the task complete until file is saved.**
 
 **If in Claude Code (project directory access):**
-1. Get current date using `date +%Y-%m-%d` command
-2. Ask where to save structure analyses (suggest `structure/` or `process/structure/`)
-3. Create the chosen directory if it doesn't exist
-4. Save with descriptive filename using actual date: `YYYY-MM-DD-[story-name]-22-steps.md`
-5. Use the structure from `assets/22-step-template.md`
-6. Include both the step-by-step breakdown and assessment/recommendations
-7. If revelations sequence was analyzed, offer to also create: `YYYY-MM-DD-[story-name]-revelations-sequence.md` using `assets/revelations-sequence-template.md`
-8. Confirm the save location
+1. Create the chosen directory if it doesn't exist using Bash (e.g., `mkdir -p structure`)
+2. Use Write tool to save file with the filename established in Step 1: `YYYY-MM-DD-[story-name]-22-steps.md`
+3. Use the structure format from `assets/22-step-template.md`
+4. Include complete step-by-step breakdown and assessment/recommendations from Steps 5-9
+5. Offer to create revelations sequence doc: `YYYY-MM-DD-[story-name]-revelations-sequence.md` using `assets/revelations-sequence-template.md`
+6. Confirm save location to user with full file path
+
+**Validation Checklist - Before Completing:**
+- [ ] Date obtained via Bash in Step 1
+- [ ] Save location confirmed with user in Step 1
+- [ ] Analysis completed in Steps 2-9
+- [ ] File written using Write tool
+- [ ] File path confirmed to user
+- [ ] Revelations sequence document offered
 
 **If in Claude Desktop/Web (no project directory):**
-1. Create the analysis as a formatted markdown artifact or downloadable file
+1. Create the analysis as a formatted markdown artifact
 2. Present it in the chat for review
-3. Suggest saving with filename using current date: `YYYY-MM-DD-[story-name]-22-steps.md`
-4. Use the structure from `assets/22-step-template.md`
+3. Remind user to save with timestamped filename: `YYYY-MM-DD-[story-name]-22-steps.md`
+4. Use the structure format from `assets/22-step-template.md`
 5. Offer to create revelations sequence document separately
 6. Offer to explore any specific step in more depth if requested
+
+**If any Claude Code checklist item is unchecked, the task is incomplete.**
 
 ## Important Reminders
 

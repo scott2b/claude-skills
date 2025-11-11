@@ -483,6 +483,19 @@
 
 
 
+### Next Steps
+*Concrete actions to develop this story further*
+
+1. **Scene Outline**:
+
+2. **Character Details**:
+
+3. **Setting/World Research**:
+
+4. **Tone/Voice Samples**:
+
+5. **Backstory Expansion**:
+
 ---
 
 *Template based on John Truby's 22-Step Story Structure from The Anatomy of Story*

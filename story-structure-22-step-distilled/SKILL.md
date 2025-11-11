@@ -5,7 +5,22 @@ description: Analyze and develop detailed story structure using John Truby's 22-
 
 # Story Structure: Twenty-Two Steps (Distilled)
 
+**PRIMARY DELIVERABLE: This skill creates timestamped reference documents saved to files.**
+
 Analyze and develop story structure using John Truby's twenty-two-step framework from *The Anatomy of Story*. These steps provide a precise map of organic plot that solves the fragmented, dead middle problem.
+
+## Critical: File Output is MANDATORY
+
+**This skill MUST save analysis to a timestamped file.** Conversational output alone is an incomplete task.
+
+Writers need persistent artifacts they can:
+- Reference throughout the drafting process
+- Update as the story evolves
+- Share with collaborators
+- Compare with future iterations
+
+**Success = A dated file exists (e.g., `2025-11-11-story-name-22-steps.md`)**
+**Failure = Only conversational output with no saved file**
 
 ## Purpose
 
@@ -45,11 +60,11 @@ Use for:
 
 ### The Steps Overview
 
-1. **Self-revelation, need, and desire (Frame)** - Combines endpoint (self-revelation) with beginning (weakness, need, desire)
+1. **Self-revelation, need, and desire (Frame)** - Planning tool combining Steps 20, 3, 5; establishes endpoint first so all steps lead there
 2. **Ghost and story world** - Past event haunting hero; world expressing hero's weakness
-3. **Weakness and need** - Psychological/moral flaw; what hero must overcome
+3. **Weakness and need** - Psychological/moral flaw; what hero must overcome (detailed treatment)
 4. **Inciting event** - External event causing hero to form goal ("frying pan into fire")
-5. **Desire** - Specific goal extending through story (start low, build up)
+5. **Desire** - Specific goal extending through story (start low, build up; detailed treatment)
 6. **Ally or allies** - Who helps hero; may have own desire line
 7. **Opponent and/or mystery** - Who wants to prevent hero reaching goal; must want SAME goal; hidden iceberg opponent
 8. **Fake-ally opponent** - Appears ally but is actually opponent
@@ -64,23 +79,29 @@ Use for:
 17. **Third revelation and decision** - Hero discovers (often fake-ally truth); becomes more determined
 18. **Gate, gauntlet, visit to death** - Conflict intensifies, options narrow; sudden mortality realization spurs fight
 19. **Battle** - Final confrontation in smallest space; **what values are fighting**, not just who's stronger; theme explodes
-20. **Self-revelation** - Hero learns who they really are; sudden, shattering, new; through action not statement
+20. **Self-revelation** - Hero learns who they really are; sudden, shattering, new; through action not statement (detailed treatment)
 21. **Moral decision** - Hero chooses between two values/ways of living; proves self-revelation
 22. **New equilibrium** - What has fundamentally changed; higher or lower level
 
+**Note**: Steps 3, 5, and 20 appear both in Step 1 (Frame) as planning overview AND in their sequential positions with full detail.
+
 ## Task Instructions
 
-### Step 1: Detect Environment & Context
+### Step 1: Establish Output Location FIRST
 
-**Determine environment:**
-- Claude Code (project access): Has Read, Write, Edit, Glob, Grep tools
-- Claude Desktop/Web: Uploaded files or chat without direct project access
+**Before beginning analysis**, establish where the final document will be saved:
 
-**Understand story context:**
+1. Get current date: `date +%Y-%m-%d`
+2. Ask where to save structure analyses (suggest `structure/` or `process/structure/`)
+3. Make note of the filename format: `YYYY-MM-DD-[story-name]-22-steps.md`
+
+This ensures the file creation is not forgotten and sets the proper context.
+
+### Step 2: Understand Story Context
+
 1. Ask which story to analyze/develop
-2. Claude Code: Search for story files if not specified (narrative drafts, outlines, structure docs, character notes)
-3. Claude Desktop: Ask to describe story or share materials
-4. Determine if:
+2. Search for story files if not specified (narrative drafts, outlines, structure docs, character notes)
+3. Determine if:
    - New story needing detailed plot structure
    - Existing draft with middle/plot problems
    - Story in development with seven-step foundation needing expansion
@@ -88,7 +109,7 @@ Use for:
 
 **Length check**: Confirm story is long enough for 22 steps. Short stories/sitcoms typically only hit seven major steps. Feature films/novels/hour-long TV usually need at least twenty-two.
 
-### Step 2: Assess Foundation
+### Step 3: Assess Foundation
 
 **Seven-step check** - Are these defined?
 1. Weakness and need
@@ -102,7 +123,7 @@ Use for:
 **If undefined**: Consider using **story-structure-7-steps** skill first, then return.
 **If exist**: Proceed to expand with additional fifteen steps.
 
-### Step 3: Choose Analysis Approach
+### Step 4: Choose Analysis Approach
 
 **A. Forward Development (New Story)**
 - Start with frame (Step 1: self-revelation, need, desire)
@@ -126,15 +147,19 @@ Use for:
 
 Ask writer which approach fits their situation.
 
-### Step 4: Work Through the Steps
+### Step 5: Work Through the Steps
 
 For each step, use the framework questions to develop the story structure:
 
-**Step 1 (Frame)**: Establish self-revelation (endpoint), weakness/need, and desire (beginning). Ensure hero is wrong at beginning about what they'll learn at end.
+**Step 1 (Frame)**: Establish self-revelation (endpoint), weakness/need, and desire (beginning) as planning overview. Ensure hero is wrong at beginning about what they'll learn at end. This frame combines Steps 20, 3, and 5 to set the structural journey.
 
 **Step 2**: Identify ghost (past event haunting hero; open wound; counterdesire) and story world (expresses hero's weakness). Determine opening type: community start (paradise), running start (classic - ghost, slavery, weaknesses), or slow start (purposeless hero).
 
-**Steps 3-5**: Detail psychological/moral weakness, need; inciting event; specific desire that starts low and builds.
+**Step 3**: Detail psychological weakness (flaw hurting hero), psychological need (what must overcome), moral weakness (clearly hurting others at story start), moral need (what must overcome to stop hurting others), and immediate problem (crisis at beginning).
+
+**Step 4**: Identify inciting event - external event causing hero to form goal. Use "frying pan into fire" principle: hero thinks this solves their problem when it actually gets them into worst trouble.
+
+**Step 5**: Establish desire - specific goal that extends through most of story. Start at low level to allow building. Show how desire intensifies and stakes increase as story progresses.
 
 **Steps 6-8**: Define allies (with own desire lines), opponent (must want SAME goal; necessary opponent who attacks hero's weakness; iceberg hierarchy technique), fake-ally opponent.
 
@@ -156,7 +181,7 @@ For each step, use the framework questions to develop the story structure:
 
 **Step 22**: New equilibrium (fundamental change; lasting impact).
 
-### Step 5: Track Revelations Sequence
+### Step 6: Track Revelations Sequence
 
 **Critical technique**: Separate reveals from plot and examine as one unit.
 
@@ -173,9 +198,9 @@ For each step, use the framework questions to develop the story structure:
 - Do breaks in buildup cause plot to stall?
 - Is there a reversal where audience's understanding changes instantly?
 
-**Claude Code**: Offer to create revelations sequence document using `assets/revelations-sequence-template.md`.
+Offer to create revelations sequence document using `assets/revelations-sequence-template.md`.
 
-### Step 6: Verify Organic Connections
+### Step 7: Verify Organic Connections
 
 **Connection tests:**
 - Frame: Self-revelation addresses weakness/need from beginning?
@@ -189,7 +214,7 @@ For each step, use the framework questions to develop the story structure:
 
 Identify weak connections and suggest strengthening.
 
-### Step 7: Provide Analysis and Recommendations
+### Step 8: Provide Analysis and Recommendations
 
 **For new stories:**
 - Which steps well-defined? Which need development (especially middle)?
@@ -209,25 +234,26 @@ Identify weak connections and suggest strengthening.
 - What ripple effects?
 - Is middle missing opponent plan/counterattack?
 
-### Step 8: Create Structure Documentation
+### Step 9: Save Structure Documentation (REQUIRED)
 
-**If Write tool available (Claude Code with project access):**
-1. Get date: `date +%Y-%m-%d`
-2. Ask where to save (suggest `structure/` or `process/structure/`)
-3. Create directory if needed
-4. Use Write tool to save as: `YYYY-MM-DD-[story-name]-22-steps.md`
-5. Use structure from `assets/22-step-template.md`
-6. Include step-by-step breakdown and assessment/recommendations
-7. Offer revelations sequence doc: `YYYY-MM-DD-[story-name]-revelations-sequence.md`
-8. Confirm save location
+**MANDATORY: Do not consider the task complete until file is saved.**
 
-**If Write tool NOT available (API/Web/Desktop without project):**
-1. Return complete file contents in response as formatted markdown
-2. Use clear filename header: `# FILE: YYYY-MM-DD-[story-name]-22-steps.md`
-3. Use structure from `assets/22-step-template.md`
-4. Include step-by-step breakdown and assessment/recommendations
-5. If revelations sequence requested, return as separate section with header: `# FILE: YYYY-MM-DD-[story-name]-revelations-sequence.md`
-6. API consumer can extract and save files from response
+1. Create directory if needed using Bash (e.g., `mkdir -p structure`)
+2. Use Write tool to save file with the filename established in Step 1: `YYYY-MM-DD-[story-name]-22-steps.md`
+3. Use structure format from `assets/22-step-template.md`
+4. Include complete step-by-step breakdown and assessment/recommendations from Steps 5-8
+5. Offer to create revelations sequence doc: `YYYY-MM-DD-[story-name]-revelations-sequence.md`
+6. Confirm save location to user with full file path
+
+**Validation Checklist - Before Completing:**
+- [ ] Date obtained via Bash in Step 1
+- [ ] Save location confirmed with user in Step 1
+- [ ] Analysis completed in Steps 2-8
+- [ ] File written using Write tool
+- [ ] File path confirmed to user
+- [ ] Revelations sequence document offered
+
+**If any checkbox is unchecked, the task is incomplete.**
 
 ## Critical Reminders
 

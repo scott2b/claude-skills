@@ -9,11 +9,11 @@ Apply Truby's 22-step framework from *The Anatomy of Story* to analyze plot stru
 
 ## The Twenty-Two Steps
 
-1. **Self-revelation, need, desire (Frame)** - Endpoint + beginning
+1. **Self-revelation, need, desire (Frame)** - Planning tool combining Steps 20, 3, 5; establishes endpoint first so all steps lead there
 2. **Ghost and story world** - Past haunting; world expressing weakness
-3. **Weakness and need** - Psychological/moral flaw
+3. **Weakness and need** - Psychological/moral flaw (detailed treatment)
 4. **Inciting event** - "Frying pan into fire"
-5. **Desire** - Specific goal (start low, build)
+5. **Desire** - Specific goal (start low, build; detailed treatment)
 6. **Ally or allies** - With own desire lines
 7. **Opponent and/or mystery** - Must want SAME goal
 8. **Fake-ally opponent**
@@ -31,6 +31,8 @@ Apply Truby's 22-step framework from *The Anatomy of Story* to analyze plot stru
 20. **Self-revelation** - Sudden, shattering, through action
 21. **Moral decision** - Choose between values
 22. **New equilibrium** - Fundamental change
+
+**Note**: Steps 3, 5, and 20 appear both in Step 1 (Frame) as planning overview AND in their sequential positions with full detail.
 
 ## Critical Principles
 
@@ -98,13 +100,15 @@ Apply Truby's 22-step framework from *The Anatomy of Story* to analyze plot stru
 **Story Type**: [Forward Development / Reverse Engineering / Plot Diagnosis]
 **Length**: [Appropriate for 22 steps? Short vs feature-length]
 
-## FRAME (Steps 1, 3, 5, 20)
+## FRAME (Step 1)
 
-**Self-Revelation (Endpoint - Step 20)**:
+*Planning overview combining Steps 20, 3, 5 to establish the overall range of change*
+
+**Self-Revelation (Step 20 - Endpoint)**:
 - Psychological: [What hero learns about who they are]
 - Moral: [What hero realizes about how they've acted toward others]
 
-**Weakness/Need (Beginning - Step 3)**:
+**Weakness/Need (Step 3 - Beginning)**:
 - Psychological weakness: [Flaw hurting hero themselves]
 - Psychological need: [What must overcome]
 - Moral weakness: [How hero clearly hurting others]
@@ -121,7 +125,19 @@ Apply Truby's 22-step framework from *The Anatomy of Story* to analyze plot stru
 - Story world: [Arena, settings; how expresses hero's weakness]
 - Opening type: [Community start / Running start / Slow start]
 
+**Step 3 - Weakness/Need (Detailed)**:
+- Psychological weakness: [How inner person is damaged; specific flaw ruining life]
+- Psychological need: [What must fulfill for better life]
+- Moral weakness: [How hero clearly hurting at least one other person at story start]
+- Moral need: [What must overcome to stop hurting others]
+- Problem: [Immediate crisis hero faces at beginning; outgrowth of weakness]
+
 **Step 4 - Inciting Event**: [External event causing goal; "frying pan into fire" - hero thinks solves problem but gets into worst trouble]
+
+**Step 5 - Desire (Detailed)**:
+- Specific goal: [What hero wants; extends through most of story]
+- Starting level: [Where desire begins - should be low to allow building]
+- How it builds: [How desire intensifies and stakes increase through story]
 
 **Step 6 - Allies**: [Who helps; their desire lines; how define hero through comparison]
 
@@ -172,6 +188,13 @@ Apply Truby's 22-step framework from *The Anatomy of Story* to analyze plot stru
 - Who wins goal: [Outcome]
 - How hero like opponent yet different: [Crucial differences clearer in similarity]
 - Theme explosion: [How theme first explodes in audience's mind]
+
+**Step 20 - Self-Revelation (Detailed)**:
+- Psychological: [What hero learns about who they really are; seeing themselves honestly]
+- Moral: [What hero realizes about how they've acted toward others]
+- How shown through action: [Not stated directly; revealed through what hero does]
+- Quality: [Sudden, shattering, new - something hero didn't know until this moment]
+- Optional double reversal: [Does opponent also have self-revelation? How do they connect? What is moral vision?]
 
 **Step 21 - Moral Decision**:
 - Two courses of action: [Choices]
@@ -231,6 +254,14 @@ Apply Truby's 22-step framework from *The Anatomy of Story* to analyze plot stru
 - Missing connections to strengthen?
 - How to fix weak steps?
 - Ripple effects of changes?
+
+**Next Steps**:
+*Concrete actions to develop this story further*
+1. **Scene Outline**: [Key scenes to develop]
+2. **Character Details**: [What to flesh out]
+3. **Setting/World Research**: [What to explore]
+4. **Tone/Voice Samples**: [What to try]
+5. **Backstory Expansion**: [What to develop]
 ```
 
 **CRITICAL - DO NOT:**

@@ -178,6 +178,54 @@ Also, delete any example files and directories not needed for the skill. The ini
 
 3. **Clear tool usage**: When the skill requires specific tools (Read, Write, Grep, etc.), explicitly state which tools to use and when.
 
+4. **Skills that require file outputs**: When a skill's primary deliverable is a persistent file (reference documents, analysis reports, structure outlines, etc.), the skill MUST make this crystal clear to prevent the common failure mode of producing only conversational output. Structure these skills as follows:
+
+   **a. State deliverable upfront (at the very top):**
+   ```markdown
+   **PRIMARY DELIVERABLE: This skill creates [type of file] saved to [location].**
+   ```
+
+   **b. Add mandatory file output section immediately after title:**
+   ```markdown
+   ## Critical: File Output is MANDATORY
+
+   **This skill MUST save [output type] to a timestamped file.** Conversational output alone is an incomplete task.
+
+   Users need persistent artifacts they can:
+   - [List specific use cases for the file]
+
+   **Success = A dated file exists (e.g., `2025-11-11-name.md`)**
+   **Failure = Only conversational output with no saved file**
+   ```
+
+   **c. Establish output location FIRST in task instructions:**
+   - Make Step 1 about establishing output location (get date, ask for save path)
+   - Do NOT bury file creation at the end of the process
+   - Early commitment prevents pattern-matching "task complete" after analysis
+
+   **d. Use strong enforcement language in final step:**
+   ```markdown
+   ### Step N: Save [Output Type] (REQUIRED)
+
+   **MANDATORY: Do not consider the task complete until file is saved.**
+   ```
+
+   **e. Include validation checklist:**
+   ```markdown
+   **Validation Checklist - Before Completing:**
+   - [ ] Date obtained via Bash
+   - [ ] Save location confirmed with user
+   - [ ] Analysis completed
+   - [ ] File written using Write tool
+   - [ ] File path confirmed to user
+
+   **If any checkbox is unchecked, the task is incomplete.**
+   ```
+
+   **Why this matters**: Without explicit enforcement, Claude will complete the analysis work, pattern-match "task done," and output results conversationally without saving to file. This makes the skill useless for its intended purpose of creating persistent reference documents. The file output is not optional—it IS the deliverable.
+
+   **Examples of skills requiring this pattern**: Story structure analysis, code reviews saved to file, meeting notes, research reports, project documentation, analysis artifacts that users reference over time.
+
 To complete SKILL.md, answer the following questions:
 
 1. What is the purpose of the skill, in a few sentences?
