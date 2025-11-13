@@ -9,6 +9,15 @@ description: PROACTIVELY identify and link relevant slipbox notes into narrative
 
 Automatically identify relevant slipbox notes and integrate them into narrative project structural documents. This skill bridges the slipbox (research repository) and active writing projects, ensuring relevant research surfaces at the right moments without manual searching.
 
+## Skill Composition
+
+**This skill is a STRATEGY skill that composes with the `obsidian` skill:**
+
+- **`slipbox-integration`** provides: Strategy, guidance, rules for WHAT to integrate and WHERE
+- **`obsidian`** provides: File operations, search, read/write capabilities for HOW to access files
+
+**Composability principle:** This skill does NOT duplicate vault operations. It delegates all file I/O to the `obsidian` skill and focuses on integration logic.
+
 ## When to Use This Skill
 
 Use this skill AUTOMATICALLY when:
@@ -120,9 +129,17 @@ Maintain project-specific tracking of:
    - What themes/concepts are being discussed?
    - What arguments are being developed?
 
-2. **Query slipbox index**
-   - Read SLIPBOX-INDEX.md
-   - Search keyword mapping for relevant terms
+2. **Query slipbox index** (using `obsidian` skill)
+   - Read SLIPBOX-INDEX.md:
+     ```bash
+     # Via obsidian skill
+     python ~/.claude/skills/obsidian/scripts/read_note.py "$SLIPBOX_DIR/SLIPBOX-INDEX.md"
+     ```
+   - Search keyword mapping for relevant terms:
+     ```bash
+     # Via obsidian skill
+     python ~/.claude/skills/obsidian/scripts/search_vault.py "keyword" --path "$SLIPBOX_DIR"
+     ```
    - Check hierarchical note map for related argument threads
    - Identify 3-10 potentially relevant notes
 
@@ -169,18 +186,25 @@ Maintain project-specific tracking of:
 
 **When user approves integration:**
 
-1. **Add wikilinks to structural documents**
+1. **Add wikilinks to structural documents** (using `obsidian` skill)
+   - Read current document, add wikilinks, write back
    - Use proper Obsidian wikilink format: `[[ID Title]]`
    - Place in contextually appropriate locations
    - Add brief inline explanation if needed
+   ```bash
+   # Via obsidian skill
+   python ~/.claude/skills/obsidian/scripts/read_note.py "structure-doc.md"
+   # ... modify content ...
+   python ~/.claude/skills/obsidian/scripts/write_note.py "structure-doc.md" --content "..."
+   ```
 
-2. **Update SLIPNOTE-INTEGRATION.md**
+2. **Update SLIPNOTE-INTEGRATION.md** (using `obsidian` skill)
    - Add note to "Notes by Project Location" section
    - Add note to "Notes by Slipbox Category" section
    - Update summary counts
    - Record why note is relevant
 
-3. **Update PROJECT-INDEX.md**
+3. **Update PROJECT-INDEX.md** (using `obsidian` skill)
    - Add section "Slipnote Integration" if not present
    - Track high-level integration stats
    - Reference SLIPNOTE-INTEGRATION.md for details
@@ -357,6 +381,19 @@ Example:
 **Optional but recommended:**
 - SLIPNOTE-INTEGRATION.md in project (skill will create if missing)
 - Regular updates to SLIPBOX-INDEX.md as slipbox grows
+
+## Vault Operations
+
+**This skill does NOT perform vault operations directly.**
+
+For all file operations (reading, writing, searching), use the **`obsidian` skill**:
+- Reading SLIPBOX-INDEX.md → `obsidian` skill
+- Searching for keywords → `obsidian` skill
+- Reading slipnotes → `obsidian` skill
+- Writing SLIPNOTE-INTEGRATION.md → `obsidian` skill
+- Updating PROJECT-INDEX.md → `obsidian` skill
+
+This skill provides **guidance and strategy** for integration. The `obsidian` skill provides the **file operations**.
 
 ---
 

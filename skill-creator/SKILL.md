@@ -168,7 +168,15 @@ Also, delete any example files and directories not needed for the skill. The ini
 
 **Best Practices:**
 
-1. **Dates and timestamps**: Claude does not have a built-in real-time clock tool and may hallucinate or guess dates incorrectly. When a skill needs the current date:
+1. **Skill composability**: Skills should compose with other skills rather than duplicate functionality. When a skill needs capabilities provided by another skill:
+   - **Delegate, don't duplicate**: Reference and use existing skills instead of reimplementing their functionality
+   - **Document composition**: Add a "Skill Composition" or "Dependencies" section explaining which skills are used
+   - **Show how to compose**: Provide concrete examples of invoking or delegating to other skills
+   - **Example**: A `slipbox-integration` skill that needs file operations should delegate to the `obsidian` skill rather than implementing its own file reading/writing
+   - **Anti-pattern**: Creating a skill that reimplements search, file operations, or other functionality already provided by existing skills
+   - **Benefits**: Maintainability (updates in one place), clarity (single source of truth), testability (independent layers)
+
+2. **Dates and timestamps**: Claude does not have a built-in real-time clock tool and may hallucinate or guess dates incorrectly. When a skill needs the current date:
    - In Claude Code: Explicitly instruct to use the bash command `date +%Y-%m-%d` to get the current date
    - In Claude Desktop/Web: Instruct to ask the user for the current date or use system date if available
    - Never rely on Claude to provide the date from memory or inference

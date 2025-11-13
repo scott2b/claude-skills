@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Read one or more notes from Obsidian vault.
+Read one or more notes from vault.
 
 Usage:
     python read_note.py FILE [FILE ...] [--format FORMAT]
@@ -25,53 +25,79 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from obsidian_api import get_api, ObsidianAPIError
+from vault_ops import read_file, parse_frontmatter, VaultError, get_vault_path
 
 
-def read_notes(filepaths: list, output_format: str = 'text'):
+def read_notes(filepaths: list, output_format: str = 'text', show_metadata: bool = False):
     """Read and display note contents"""
-    api = get_api()
-    results = {}
 
     try:
-        for filepath in filepaths:
-            try:
-                content = api.get_file_content(filepath)
-                results[filepath] = content
-
-                if output_format == 'text':
-                    print(f"{'='*80}")
-                    print(f"File: {filepath}")
-                    print(f"{'='*80}")
-                    print(content)
-                    print()
-
-            except ObsidianAPIError as e:
-                if output_format == 'text':
-                    print(f"ERROR reading {filepath}: {e}", file=sys.stderr)
-                results[filepath] = None
-
-        if output_format == 'json':
-            print(json.dumps(results, indent=2))
-
-    except ObsidianAPIError as e:
+        vault_path = get_vault_path()
+    except VaultError as e:
         print(f"ERROR: {e}", file=sys.stderr)
         sys.exit(1)
+
+    results = []
+
+    for filepath in filepaths:
+        try:
+            content = read_file(filepath, vault_path=vault_path)
+
+            if show_metadata:
+                metadata, body = parse_frontmatter(content)
+                results.append({
+                    'filename': filepath,
+                    'metadata': metadata,
+                    'content': body
+                })
+            else:
+                results.append({
+                    'filename': filepath,
+                    'content': content
+                })
+
+        except VaultError as e:
+            print(f"ERROR reading {filepath}: {e}", file=sys.stderr)
+            if len(filepaths) == 1:
+                sys.exit(1)
+            continue
+
+    # Output
+    if output_format == 'json':
+        print(json.dumps(results, indent=2))
+    else:
+        for result in results:
+            if len(filepaths) > 1:
+                print("=" * 80)
+                print(f"File: {result['filename']}")
+                print("=" * 80)
+
+            if show_metadata and result.get('metadata'):
+                print("Metadata:")
+                print(json.dumps(result['metadata'], indent=2))
+                print("\nContent:")
+
+            print(result['content'])
+
+            if len(filepaths) > 1:
+                print()
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description='Read notes from Obsidian vault',
+        description='Read notes from vault',
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=__doc__
     )
     parser.add_argument('files', nargs='+', metavar='FILE',
                        help='Note file(s) to read (relative to vault root)')
-    parser.add_argument('--format', choices=['text', 'json', 'markdown'],
+    parser.add_argument('--format', choices=['text', 'json'],
                        default='text', help='Output format (default: text)')
+    parser.add_argument('--metadata', action='store_true',
+                       help='Parse and show frontmatter metadata separately')
 
     args = parser.parse_args()
-    read_notes(args.files, args.format)
+    read_notes(args.files, args.format, args.metadata)
 
 
 if __name__ == '__main__':

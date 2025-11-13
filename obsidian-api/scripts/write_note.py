@@ -24,18 +24,18 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from vault_ops import write_file, VaultError, get_vault_path
+from obsidian_api import get_api, ObsidianAPIError
 
 
 def write_note(filepath: str, content: str):
     """Create or update note"""
+    api = get_api()
 
     try:
-        vault_path = get_vault_path()
-        write_file(filepath, content, vault_path=vault_path)
+        api.create_or_update_file(filepath, content)
         print(f"✓ Note written: {filepath}")
 
-    except VaultError as e:
+    except ObsidianAPIError as e:
         print(f"ERROR: {e}", file=sys.stderr)
         sys.exit(1)
 

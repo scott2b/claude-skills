@@ -21,11 +21,12 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from vault_ops import VaultError, get_vault_path
+from obsidian_api import get_api, ObsidianAPIError
 
 
 def delete_note(filepath: str, force: bool = False):
     """Delete note with optional confirmation"""
+    api = get_api()
 
     if not force:
         # Prompt for confirmation
@@ -35,12 +36,10 @@ def delete_note(filepath: str, force: bool = False):
             return
 
     try:
-        vault_path = get_vault_path()
-        from vault_ops import delete_file
-        delete_file(filepath, vault_path=vault_path)
+        api.delete_file(filepath)
         print(f"✓ Deleted: {filepath}")
 
-    except VaultError as e:
+    except ObsidianAPIError as e:
         print(f"ERROR: {e}", file=sys.stderr)
         sys.exit(1)
 

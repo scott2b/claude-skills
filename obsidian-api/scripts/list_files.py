@@ -25,33 +25,20 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from vault_ops import VaultError, get_vault_path
+from obsidian_api import get_api, ObsidianAPIError
 
 
 def list_files(path: str = None, output_format: str = 'text', recursive: bool = False):
     """List files in vault or directory"""
+    api = get_api()
 
     try:
-        vault_path = get_vault_path()
-        search_path = path if path else ''
-
-        if recursive:
-            # Recursive listing using os.walk
-            import os
-            full_path = os.path.join(vault_path, search_path) if search_path else vault_path
-            files = []
-            for root, dirs, filenames in os.walk(full_path):
-                for filename in filenames:
-                    if filename.endswith('.md'):
-                        full_file_path = os.path.join(root, filename)
-                        rel_path = os.path.relpath(full_file_path, vault_path)
-                        files.append(rel_path)
+        if path:
+            files = api.list_directory_files(path)
+            location = path
         else:
-            # Non-recursive using vault_ops
-            from vault_ops import list_files as list_vault_files
-            files = list_vault_files(search_path if search_path else vault_path, vault_path=vault_path)
-
-        location = path if path else "vault root"
+            files = api.list_vault_files()
+            location = "vault root"
 
         if output_format == 'json':
             print(json.dumps(files, indent=2))
@@ -64,10 +51,26 @@ def list_files(path: str = None, output_format: str = 'text', recursive: bool = 
 
         print(f"Files in {location} ({len(files)} total):\n")
 
-        for filename in sorted(files):
-            print(f"  📄 {filename}")
+        # Separate files and directories
+        dirs = [f for f in files if f.get('type') == 'folder' or f.get('folder', False)]
+        docs = [f for f in files if f.get('type') == 'file' or not f.get('folder', False)]
 
-    except VaultError as e:
+        # Show directories first
+        if dirs:
+            print("Directories:")
+            for d in sorted(dirs, key=lambda x: x.get('path', x.get('name', ''))):
+                name = d.get('name', d.get('path', 'Unknown'))
+                print(f"  📁 {name}/")
+            print()
+
+        # Show files
+        if docs:
+            print("Files:")
+            for f in sorted(docs, key=lambda x: x.get('path', x.get('name', ''))):
+                name = f.get('name', f.get('path', 'Unknown'))
+                print(f"  📄 {name}")
+
+    except ObsidianAPIError as e:
         print(f"ERROR: {e}", file=sys.stderr)
         sys.exit(1)
 

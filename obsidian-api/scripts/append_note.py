@@ -21,18 +21,18 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from vault_ops import append_file, VaultError, get_vault_path
+from obsidian_api import get_api, ObsidianAPIError
 
 
 def append_to_note(filepath: str, content: str):
     """Append content to note"""
+    api = get_api()
 
     try:
-        vault_path = get_vault_path()
-        append_file(filepath, content, vault_path=vault_path)
+        api.append_to_file(filepath, content)
         print(f"✓ Content appended to: {filepath}")
 
-    except VaultError as e:
+    except ObsidianAPIError as e:
         print(f"ERROR: {e}", file=sys.stderr)
         sys.exit(1)
 
