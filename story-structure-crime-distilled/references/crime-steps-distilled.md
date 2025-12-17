@@ -1,4 +1,4 @@
-# Crime Story Beats: Distilled Reference
+# Crime Story Steps: Distilled Reference
 
 Concise reference for John Truby's Crime framework from *The Anatomy of Genres* chapter 7.
 
@@ -16,7 +16,7 @@ Life is constant moral accounting. In pursuing desires, we use and harm others. 
 
 Balancing books becomes complex when moral action opposes legal action.
 
-## Crime Story Beats (15)
+## Crime Story Steps (15)
 
 ### 1. Story World - Slavery of Superficial Society
 Society between two dystopian extremes: no crime (chaos) or police state. Extreme wealth/poverty. Possibility of moving up through work almost gone. People turn to crime.
@@ -93,7 +93,7 @@ Criminal punished, law upheld. But justice system doesn't necessarily produce ju
 
 **"Eye for an eye"**: Not just punishment fits crime—symbol of desire to close wound, equal books.
 
-## Morality Story Beats (8) - For Transcendent Crime
+## Morality Story Steps (8) - For Transcendent Crime
 
 ### 1. Story World - Moral Universe
 All actions have moral consequences. Moral universe depends on how it defines **responsibility** and **choice**.

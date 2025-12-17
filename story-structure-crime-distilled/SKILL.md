@@ -35,7 +35,7 @@ Use when creating:
 ## Bundled Resources
 
 **References:**
-- `references/crime-beats-distilled.md` - Concise beat explanations and key principles
+- `references/crime-steps-distilled.md` - Concise step explanations and key principles
 
 **Assets:**
 - `assets/crime-structure-template.md` - Structure analysis template
@@ -86,9 +86,9 @@ Use when creating:
 - [ ] Epic Crime Tragedy - Lost potential, moral accounting over lifetime, rigid moral system
 - [ ] Crime Black Comedy - Moral code as destructive system, extreme passion + lack of knowledge
 
-### Step 5: Work Through Crime Story Beats (15 Beats)
+### Step 5: Work Through Crime Story Steps (15 Steps)
 
-Apply Truby's Crime beats:
+Apply Truby's Crime steps:
 
 1. **Story World** - Superficial society, slavery. Extremes: no crime (chaos) or police state.
 2. **Inciting Event - Crime** - Ingenious crime catapults criminal to wealth/power. More deception = better.
@@ -106,9 +106,9 @@ Apply Truby's Crime beats:
 14. **Self-Revelation** - Society reaffirmed, society loses, or mixed.
 15. **Poetic Justice** - Payment in kind, unique to crime, karmic reckoning, by offender's own hand.
 
-### Step 6: Work Through Morality Beats (For Transcendent Crime)
+### Step 6: Work Through Morality Steps (For Transcendent Crime)
 
-For Epic Crime Tragedy or Crime Black Comedy, add 8 morality beats:
+For Epic Crime Tragedy or Crime Black Comedy, add 8 morality steps:
 
 1. **Story World - Moral Universe** - Responsibility and choice defined. All actions have moral consequences.
 2. **Character Web - Moral Code** - Detailed code in 3 pivotal moments: beginning, middle, end.
@@ -155,11 +155,11 @@ Verify connections:
 - Hero and opponent equally matched?
 - Opponent's plan intricate and hidden? (Most common weakness)
 - Moral code detailed?
-- Crime beats present?
+- Crime steps present?
 - Which variation?
 
 **For existing drafts:**
-- Which beats present/missing?
+- Which steps present/missing?
 - Is opponent's plan detailed enough?
 - Do revelations build or stall?
 - Are moral decisions tracked?
@@ -220,7 +220,7 @@ Verify connections:
 
 - Layer on basic structure (7-step or 22-step)
 - Hero can be cop OR criminal
-- Opponent's plan is the most important and most often missing beat
+- Opponent's plan is the most important and most often missing step
 - Express moral argument through plot, not statement
 - Poetic justice: payment in kind, by offender's own hand
 - "Character is destiny" (Heraclitus)

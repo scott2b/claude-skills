@@ -12,7 +12,7 @@
 
 **File Structure:**
 - `SKILL.md`: ~22,000 words ≈ **29,000 tokens**
-- `references/myth-beats.md`: ~34,000 words ≈ **45,000 tokens**
+- `references/myth-steps.md`: ~34,000 words ≈ **45,000 tokens**
 - `assets/myth-structure-template.md`: ~8,000 words ≈ **11,000 tokens**
 - `assets/story-world-template.md`: ~6,500 words ≈ **9,000 tokens**
 - `assets/character-web-template.md`: ~6,000 words ≈ **8,000 tokens**
@@ -24,7 +24,7 @@
 
 **File Structure:**
 - `SKILL.md`: ~5,500 words ≈ **7,300 tokens**
-- `references/myth-beats-distilled.md`: ~5,000 words ≈ **6,700 tokens**
+- `references/myth-steps-distilled.md`: ~5,000 words ≈ **6,700 tokens**
 - `assets/myth-analysis-template.md`: ~3,000 words ≈ **4,000 tokens**
 
 **Total Distilled**: ~13,500 words ≈ **18,000 tokens**
@@ -44,7 +44,7 @@
 **Removed:**
 - Detailed *Lord of the Rings* analysis (Frodo/Aragorn character arcs, Middle Earth subworlds, value systems)
 - Extensive *Wizard of Oz* walkthrough (Dorothy's journey, Kansas/Oz comparison, ally analysis)
-- *Avatar* beat-by-beat analysis (Jake's rebirths, seed symbolism, cosmic revelation)
+- *Avatar* step-by-step analysis (Jake's rebirths, seed symbolism, cosmic revelation)
 - *Black Panther* origin story analysis (T'Challa's arc, Wakanda's development)
 - *2001: A Space Odyssey* evolutionary stages analysis
 - Multiple examples of same concept (e.g., 5 examples of each archetype reduced to 2-3)
@@ -97,7 +97,7 @@
 ### 1. Truby's Unique Myth Framework
 
 **Fully Preserved:**
-- All 16 Myth-specific story beats in order
+- All 16 Myth-specific story steps in order
 - 7-step story world creation process
 - Male Myth vs Female Myth distinction (divide/conquer vs combine/grow)
 - Transcendent forms (Creation, Female, Ecological)
@@ -127,7 +127,7 @@
 - Assessment and recommendation framework
 - Connection tests for organic structure
 
-### 4. Male vs Female Beat Differences
+### 4. Male vs Female Step Differences
 
 **Fully Preserved:**
 - Linear vs circular plot
@@ -211,7 +211,7 @@ Condensed verbose procedures to imperative steps:
 
 ### Unique Procedures ✓
 
-- [x] 16 Myth-specific beats preserved
+- [x] 16 Myth-specific steps preserved
 - [x] 7-step story world creation intact
 - [x] Male vs Female distinctions clear
 - [x] Techniques (Family Trip, etc.) present
@@ -314,7 +314,7 @@ While >80% reduction is on the high end, it's appropriate because:
 
 ### Core Files
 - `SKILL.md` (7,300 tokens) - Main skill instructions
-- `references/myth-beats-distilled.md` (6,700 tokens) - Condensed reference
+- `references/myth-steps-distilled.md` (6,700 tokens) - Condensed reference
 - `assets/myth-analysis-template.md` (4,000 tokens) - Unified template
 
 ### Supporting Files

@@ -157,19 +157,19 @@ Is this Myth?
 
 ---
 
-## 3. MYTH STORY BEATS
+## 3. MYTH STORY STEPS
 
-### Beat 1: Ghost—Birth/Rebirth
+### Step 1: Ghost—Birth/Rebirth
 
 **Birth or Rebirth:**
 
 **Loss of Parent:**
 
-### Beat 2: Weakness-Need
+### Step 2: Weakness-Need
 
 **"Becoming a Hero" Means:**
 
-### Beat 3: Talisman
+### Step 3: Talisman
 
 **Object:**
 
@@ -179,7 +179,7 @@ Is this Myth?
 
 **Type**: [ ] Traditional (sword, etc.)  [ ] Non-traditional (seeds, shoes, etc.)
 
-### Beat 4: Desire—Journey
+### Step 4: Desire—Journey
 
 **Goal:**
 
@@ -189,11 +189,11 @@ Is this Myth?
 
 **Plot Shape**: [ ] Meander  [ ] Linear  [ ] Circular
 
-### Beat 5: Allies
+### Step 5: Allies
 
 [See Character Web above]
 
-### Beat 6: Opponents
+### Step 6: Opponents
 
 **Main Opponent** (ongoing):
 
@@ -204,7 +204,7 @@ Is this Myth?
 
 **Technique Used**: [ ] Family Trip  [ ] Ongoing Opponent  [ ] Iceberg
 
-### Beat 7: Symbolic Objects
+### Step 7: Symbolic Objects
 
 **Symbolic Characters:**
 
@@ -214,7 +214,7 @@ Is this Myth?
 
 **Symbolic Places:**
 
-### Beat 8: Revelations
+### Step 8: Revelations
 
 **Major Revelations** (target 7-10):
 1. Location - What learned - About whom:
@@ -228,7 +228,7 @@ Is this Myth?
 **Build in intensity**: [ ] Yes  [ ] No
 **Increase in pace**: [ ] Yes  [ ] No
 
-### Beat 9: Gate/Gauntlet/Underworld
+### Step 9: Gate/Gauntlet/Underworld
 
 **Gate/Gauntlet:**
 
@@ -236,7 +236,7 @@ Is this Myth?
 
 **What Seen:**
 
-### Beat 10: Battle
+### Step 10: Battle
 
 **Type**: [ ] Male (violent)  [ ] Female (non-violent)
 
@@ -244,7 +244,7 @@ Is this Myth?
 
 **Who Wins:**
 
-### Beat 11: Self-Revelation
+### Step 11: Self-Revelation
 
 **Personal:**
 
@@ -252,7 +252,7 @@ Is this Myth?
 
 **Cosmic (moral vision):**
 
-### Beat 12: New Equilibrium
+### Step 12: New Equilibrium
 
 **Returns to:** [ ] Original home  [ ] New home
 
@@ -323,7 +323,7 @@ Is this Myth?
 
 **Character Web:**
 
-**Myth Beats:**
+**Myth Steps:**
 
 **Journey:**
 
@@ -333,7 +333,7 @@ Is this Myth?
 
 **Character Web:**
 
-**Myth Beats:**
+**Myth Steps:**
 
 **Journey:**
 

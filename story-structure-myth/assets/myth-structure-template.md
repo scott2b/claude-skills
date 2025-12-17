@@ -246,9 +246,9 @@ Before layering Myth-specific elements, confirm basic structure is established:
 
 ---
 
-## 3. MYTH STORY BEATS
+## 3. MYTH STORY STEPS
 
-### Beat 1: Ghost—Difficult Birth and Losing the Father
+### Step 1: Ghost—Difficult Birth and Losing the Father
 
 **Birth/Rebirth**:
 - [ ] Story begins with literal birth
@@ -263,7 +263,7 @@ Before layering Myth-specific elements, confirm basic structure is established:
 **Wound from the Past**:
 [What event still haunts the hero?]
 
-### Beat 2: Weakness-Need—Becoming a Hero
+### Step 2: Weakness-Need—Becoming a Hero
 
 **Hero's Great Weakness**:
 
@@ -278,7 +278,7 @@ Before layering Myth-specific elements, confirm basic structure is established:
 
 **What Prevents Hero from Seeing Self as Heroic**:
 
-### Beat 3: Inciting Event—Talisman
+### Step 3: Inciting Event—Talisman
 
 **Talisman Object**:
 
@@ -294,7 +294,7 @@ Before layering Myth-specific elements, confirm basic structure is established:
 - [ ] Male symbol (enforcement, weapon)
 - [ ] Female symbol (connection, growth)
 
-### Beat 4: Desire—Journey and Destiny
+### Step 4: Desire—Journey and Destiny
 
 **Hero's Conscious Goal**:
 
@@ -314,7 +314,7 @@ Before layering Myth-specific elements, confirm basic structure is established:
 
 **Plot Shape**: [ ] Meander (winding, episodic)  [ ] Linear  [ ] Other: _______
 
-### Beat 5: Allies—Including Wise Old Man/Woman
+### Step 5: Allies—Including Wise Old Man/Woman
 
 [See Character Web section above for ally details]
 
@@ -328,7 +328,7 @@ Before layering Myth-specific elements, confirm basic structure is established:
 **For Female Myth—Non-Traditional Allies**:
 [If applicable, note how allies differ from typical warriors]
 
-### Beat 6: Opponent—Successive Strangers
+### Step 6: Opponent—Successive Strangers
 
 **Main Opponent** (present throughout):
 - **Name**:
@@ -358,9 +358,9 @@ Before layering Myth-specific elements, confirm basic structure is established:
 - [ ] Iceberg opponent (hierarchy with hidden alliances)
 
 **Assessment of Episodic Structure**:
-[Does the story avoid hitting the same beat? How does it overcome episodic nature?]
+[Does the story avoid hitting the same step? How does it overcome episodic nature?]
 
-### Beat 7: Drive—Symbolic Objects
+### Step 7: Drive—Symbolic Objects
 
 **Symbolic Characters**:
 - [Animal, machine, devil, etc. and what they symbolize]
@@ -378,7 +378,7 @@ Before layering Myth-specific elements, confirm basic structure is established:
 
 **Relationship to Natural World**:
 
-### Beat 8: Revelation—Opponents Attack
+### Step 8: Revelation—Opponents Attack
 
 **Major Revelations Along Journey**:
 
@@ -405,7 +405,7 @@ Before layering Myth-specific elements, confirm basic structure is established:
 **Revelations Build?**: [ ] Yes  [ ] No
 **Revelations Increase in Pace?**: [ ] Yes  [ ] No
 
-### Beat 9: Gate, Gauntlet, Visit to the Underworld
+### Step 9: Gate, Gauntlet, Visit to the Underworld
 
 **Gate/Gauntlet**:
 [How does conflict intensify to unbearable pressure? Do spaces narrow?]
@@ -422,7 +422,7 @@ Before layering Myth-specific elements, confirm basic structure is established:
 
 **Narrow Escape**:
 
-### Beat 10: Battle
+### Step 10: Battle
 
 **Type**: [ ] Male Myth (violent, epic)  [ ] Female Myth (non-violent problem-solving)  [ ] Mixed
 
@@ -439,7 +439,7 @@ Before layering Myth-specific elements, confirm basic structure is established:
 
 **For Female Myth—How Problem Solved Without Violence**:
 
-### Beat 11: Self-Revelation—Public/Cosmic
+### Step 11: Self-Revelation—Public/Cosmic
 
 **Personal Self-Revelation**:
 [What does hero learn about who they really are?]
@@ -461,7 +461,7 @@ Before layering Myth-specific elements, confirm basic structure is established:
 
 **Mythic or Tragic Ending**: [ ] Mythic (immortality/rebirth)  [ ] Tragic (cut off too early, no rebirth)
 
-### Beat 12: New Equilibrium—Outgrow the Code
+### Step 12: New Equilibrium—Outgrow the Code
 
 **Return Home**:
 - [ ] Returns to original home
@@ -633,7 +633,7 @@ Before layering Myth-specific elements, confirm basic structure is established:
 
 **Character Web**:
 
-**Myth Beats**:
+**Myth Steps**:
 
 **Journey Structure**:
 
@@ -647,7 +647,7 @@ Before layering Myth-specific elements, confirm basic structure is established:
 
 **Character Web**:
 
-**Myth Beats**:
+**Myth Steps**:
 
 **Journey Structure**:
 

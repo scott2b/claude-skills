@@ -8,7 +8,7 @@
 
 ## Reminder
 
-**KEY**: More intricate + better hidden = better plot. **MOST OFTEN MISSING BEAT.**
+**KEY**: More intricate + better hidden = better plot. **MOST OFTEN MISSING STEP.**
 
 ---
 
@@ -228,6 +228,6 @@
 
 ---
 
-*Based on Truby's Crime Beat 8 from The Anatomy of Genres*
+*Based on Truby's Crime Step 8 from The Anatomy of Genres*
 
-**Remember**: Most important and most often missing beat. More intricate + hidden = better.
+**Remember**: Most important and most often missing step. More intricate + hidden = better.

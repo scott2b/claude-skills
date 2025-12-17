@@ -1,4 +1,4 @@
-# Myth Story Beats: Distilled Reference
+# Myth Story Steps: Distilled Reference
 
 Based on John Truby's "Myth: The Life Process" from *The Anatomy of Genres*
 
@@ -82,28 +82,28 @@ Each archetype has essential strength and "shadow" (deep weakness).
 - Shadow: Lies, cheats, steals
 - Examples: Odysseus, Loki, Joker
 
-## The Sixteen Myth Story Beats
+## The Sixteen Myth Story Steps
 
-### Beat 1: Ghost—Difficult Birth/Rebirth
+### Step 1: Ghost—Difficult Birth/Rebirth
 Many Myths begin with difficult birth; hero loses father/mother. Modern technique: Begin with rebirth of hero for quicker start.
 
-### Beat 2: Weakness-Need—Becoming a Hero
+### Step 2: Weakness-Need—Becoming a Hero
 Hero needs to become heroic (not conscious desire). Often based on loss of parent.
 
-### Beat 3: Inciting Event—Talisman
+### Step 3: Inciting Event—Talisman
 Hero gains talisman (object with unknown power that expresses hero's identity/destiny). For male Myth: often sword. For female Myth: often non-violent object.
 
-### Beat 4: Desire—Journey and Destiny
+### Step 4: Desire—Journey and Destiny
 Goal embedded within hero (what born to do). Journey has specific end point. Often circular (returns home).
 
 **Meander Plot Shape:** Winding path, many successive opponents. Plot comes from encountering new opponents at different levels of society.
 
 **Technique:** External = Internal Journey. Physical journey manifests internal change.
 
-### Beat 5: Allies—Wise Old Man/Woman
+### Step 5: Allies—Wise Old Man/Woman
 Companions including Teacher archetype. What they lack that journey reveals they always had.
 
-### Beat 6: Opponent—Successive Strangers
+### Step 6: Opponent—Successive Strangers
 Due to journey form, opponents tend to be strangers in succession (creates episodic challenge).
 
 **Technique:** Each opponent represents aspect hero must overcome in self. Each defeat = mini self-revelation.
@@ -114,7 +114,7 @@ Due to journey form, opponents tend to be strangers in succession (creates episo
 
 **Key Point:** In Myth, nothing is chance. Each opponent challenges hero at weakest point.
 
-### Beat 7: Drive—Symbolic Objects
+### Step 7: Drive—Symbolic Objects
 Most symbolic genre. External symbols mean something within hero.
 
 **Symbolic categories:**
@@ -125,13 +125,13 @@ Most symbolic genre. External symbols mean something within hero.
 
 **Key Point:** Symbols ambiguous, depend on context.
 
-### Beat 8: Revelation—Opponents Attack
+### Step 8: Revelation—Opponents Attack
 Hero learns about each opponent's attack method, creates unique plans, has mini self-revelations.
 
-### Beat 9: Gate, Gauntlet, Visit to Underworld
+### Step 9: Gate, Gauntlet, Visit to Underworld
 Conflict intensifies, pressure becomes unbearable, options narrow. Hero visits underworld (land of dead), sees ancestors/future, recognizes unexamined self, realizes mortality, makes narrow escape.
 
-### Beat 10: Battle
+### Step 10: Battle
 
 **Male Myth:** Big violent battle. Stakes epic. Hero defeats greatest opponent but may die.
 
@@ -139,7 +139,7 @@ Conflict intensifies, pressure becomes unbearable, options narrow. Hero visits u
 
 **Key:** Values fighting, not just who is stronger.
 
-### Beat 11: Self-Revelation—Public/Cosmic
+### Step 11: Self-Revelation—Public/Cosmic
 Not just personal revelation. Two forms:
 
 **1. Public Revelation:** Hero learns identity as king/chosen leader. Understands special responsibility to community. Health of kingdom depends on quality of king.
@@ -150,7 +150,7 @@ Not just personal revelation. Two forms:
 - **Mythic:** Immortality of hero (even through story)
 - **Tragic:** Life cut off too early, no rebirth, revelation comes too late
 
-### Beat 12: New Equilibrium—Outgrow the Code
+### Step 12: New Equilibrium—Outgrow the Code
 Hero returns home profoundly changed. Often marries/remarries.
 
 Instead of changing beliefs, hero has outgrown the code entirely. Spiritually reborn.

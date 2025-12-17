@@ -1,4 +1,4 @@
-# Myth Story Beats: Comprehensive Reference
+# Myth Story Steps: Comprehensive Reference
 
 Based on John Truby's "Myth: The Life Process" from *The Anatomy of Genres*
 
@@ -24,7 +24,7 @@ The hero encounters a number of opponents on a journey that eventually exposes h
 
 The physical journey typically ends with the hero returning home. The life journey ends with the hero's inner rebirth.
 
-## Myth Story Beat 1: Story World—Natural World and Two Cultures
+## Myth Story Step 1: Story World—Natural World and Two Cultures
 
 **The story world is the most important major story element in the Myth form.** It is the key feature in all "world-building" genres, including Fantasy and Science Fiction.
 
@@ -179,7 +179,7 @@ The technology of magic comes primarily from wands and Dorothy's shoes. For the 
 
 **Key Point**: The world of slavery is an expression of your hero's great weakness. This weakness mirrors the operating principle on which the entire system is based.
 
-## Myth Story Beat 2: Ghost—Difficult Birth and Losing the Father
+## Myth Story Step 2: Ghost—Difficult Birth and Losing the Father
 
 Many Myth stories begin with the birth of the hero. Joseph Campbell points out that it is usually a difficult birth, and soon thereafter, the (male) hero loses his father.
 
@@ -190,7 +190,7 @@ Why? First, it allows the writer to avoid the slow childhood period that delays 
 
 **Examples**: *Avatar*, *Batman Begins*, and the Science Fiction/Myth story *The Matrix*.
 
-## Myth Story Beat 3: Character Web—The Great Chain of Being
+## Myth Story Step 3: Character Web—The Great Chain of Being
 
 Myth is founded on the longest life process in story. It takes two main forms:
 1. The hero's journey from birth to death to rebirth
@@ -230,7 +230,7 @@ To create the character web in a Myth story, you must design your version of the
 **Technique: Connecting the Great Chain to Society**
 Once you create your own character web based on the Great Chain of Being—divine, human, animal, vegetable, mineral—connect it with a society that is either heaven or hell, utopia or dystopia.
 
-## Myth Story Beat 4: Character Web—Archetypes
+## Myth Story Step 4: Character Web—Archetypes
 
 The Myth story form deals in broad types of characters, known as archetypes. Archetypes are defined by their psychological flaws and social roles. They represent a fundamental way of being, as well as a level of being.
 
@@ -292,7 +292,7 @@ The main character, Dorothy Gale, is an orphan girl of twelve. She is undaunted 
 
 Another distinctive feature that makes *The Wizard of Oz* a Female Myth is the presence of good witches as well as evil ones. Throughout history, "witches" have been an expression of women's knowledge and power. By introducing the idea of a good witch and making Glinda the most positive and powerful character in the story, the writer L. Frank Baum celebrates female power.
 
-## Myth Story Beat 5: Myth Hero—Searcher
+## Myth Story Step 5: Myth Hero—Searcher
 
 The basic role of the hero in Myth is the same as the hero's role in the Detective genre: the searcher. But what each hero searches for is quite different. In Detective, the hero searches for the truth, usually about who committed a murder.
 
@@ -300,18 +300,18 @@ In Myth, a hero like Jason may search for the Golden Fleece. Odysseus searches f
 
 **Key Point**: The Myth hero's search almost always takes him on a dangerous physical journey in which he must fight his way through the world.
 
-## Myth Story Beat 6: Weakness-Need—Becoming a Hero
+## Myth Story Step 6: Weakness-Need—Becoming a Hero
 
-The weakness-need of the Myth hero is often based on one of the early beats in the Myth form: the loss of the father. When the father either dies or disappears, the hero tries to live up to the expectations of an ideal father. In other words, the hero needs to become a hero.
+The weakness-need of the Myth hero is often based on one of the early steps in the Myth form: the loss of the father. When the father either dies or disappears, the hero tries to live up to the expectations of an ideal father. In other words, the hero needs to become a hero.
 
 **Key Point**: Becoming a hero is a need, not a specific, conscious desire.
 
 **Example: The Wizard of Oz**
 In *The Wizard of Oz*, Dorothy has a run-in with Miss Gulch because her dog, Toto, got into Miss Gulch's garden. But when Dorothy complains about it to her Aunt Em and Uncle Henry they are too busy to help her. She thinks her family doesn't care about her and she wants to run away. Her true need is to find her way home so she can love and care for her family.
 
-## Myth Story Beat 7: Inciting Event—Talisman
+## Myth Story Step 7: Inciting Event—Talisman
 
-The inciting event is the story beat between weakness-need and desire. It causes the hero to come up with a goal and start taking action to reach it.
+The inciting event is the story step between weakness-need and desire. It causes the hero to come up with a goal and start taking action to reach it.
 
 In Myth, this is typically the moment when the hero gains a talisman. A talisman is an object of power or significance.
 
@@ -324,11 +324,11 @@ The talisman prompts the hero's first inkling of self-definition. The hero will 
 **For the classic male Myth hero**, the talisman is often a sword, an enforcer of right action. Examples include Excalibur, the sword of King Arthur, and Anduril, Flame of the West, from *The Lord of the Rings*. Only the rightful heir to the throne can wield Anduril. Whereas Excalibur is stuck in stone, Anduril is broken and must be reforged.
 
 **Example: The Wizard of Oz**
-When the cyclone takes Dorothy from Kansas to another world, she begins a new Myth story in Oz. In the scene with the Munchkins, Dorothy encounters a number of critical Myth story beats, including her talisman.
+When the cyclone takes Dorothy from Kansas to another world, she begins a new Myth story in Oz. In the scene with the Munchkins, Dorothy encounters a number of critical Myth story steps, including her talisman.
 
 Dorothy's talisman is not the classic male symbol of the sword. It is the magical ruby slippers (silver shoes in the novel), and their true power is unknown. When the Wicked Witch demands that Dorothy give them to her, Glinda tells her, "Their magic must be very powerful or she wouldn't want them so badly."
 
-## Myth Story Beat 8: Desire—Journey and Destiny
+## Myth Story Step 8: Desire—Journey and Destiny
 
 The desire line of the hero determines the spine of the story.
 
@@ -362,7 +362,7 @@ The meandering Myth hero covers a great deal of territory but in a haphazard way
 
 **Examples**: the *Odyssey*, *The Lord of the Rings*, *The Wonderful Wizard of Oz*, *Frozen*, *Don Quixote*, *Tom Jones* (also Comedy), *The Princess Bride* (also Comedy), *Toy Story* (also Comedy), and some of the *Harry Potter* stories (also Fantasy, Horror, and Comedy).
 
-## Myth Story Beat 9: Allies—Including Wise Old Man/Woman
+## Myth Story Step 9: Allies—Including Wise Old Man/Woman
 
 The ally in Myth can be anyone. Often, one of the allies takes the form of the Wise Old Man or Wise Old Woman. This is the Teacher archetype.
 
@@ -383,13 +383,13 @@ Like Dorothy, the allies must go on a long, difficult journey to realize what th
 
 Another major story element that makes this a Female Myth is that Dorothy's most powerful male ally, the Wizard, is a "humbug." But he is not evil, nor is he useless to her or to Oz. By requiring Dorothy to bring back the Witch's broom, he gives her a test that proves her worthiness to herself and others.
 
-## Myth Story Beat 10: Opponent—Successive Strangers
+## Myth Story Step 10: Opponent—Successive Strangers
 
 Due to the journey form common to this genre, the Myth opponents tend to be strangers who appear in succession.
 
 This fact poses the biggest challenge in designing the plot. The sequence of unfamiliar opponents the hero fights results in an episodic structure. Individual scenes stand out but do not connect to or build on one another.
 
-This is also known as "hitting the same beat." Actions appear to be different on the surface but are essentially the same. The plot is simply a series of fights against opponents who differ only in the way they attack the hero.
+This is also known as "hitting the same step." Actions appear to be different on the surface but are essentially the same. The plot is simply a series of fights against opponents who differ only in the way they attack the hero.
 
 **Technique: The Opponent and Self-Revelation**
 Each opponent should represent an aspect of what the hero must overcome in himself. Therefore, each time the hero defeats an opponent, he may have a minor self-revelation.
@@ -415,9 +415,9 @@ Try to have at least one opponent present throughout the story, and make that th
 
 A good story needs one main opponent the audience gets to know over the course of the story to build the drama. The more personal this character's relationship to the hero, the better the story will be.
 
-## Myth Story Beat 11: Drive—Symbolic Objects
+## Myth Story Step 11: Drive—Symbolic Objects
 
-Myth, along with Horror, is the most symbolic of all genres. This is expressed by the drive beat, where the hero takes actions to reach the goal. In the process of opposing characters and objects with symbolic value while trying to reach the goal, the hero is forced to undergo a transformation of heart and mind.
+Myth, along with Horror, is the most symbolic of all genres. This is expressed by the drive step, where the hero takes actions to reach the goal. In the process of opposing characters and objects with symbolic value while trying to reach the goal, the hero is forced to undergo a transformation of heart and mind.
 
 **Key Point**: External symbols always mean something within the hero. Like religion, Myth uses metaphors: symbols with an established meaning.
 
@@ -448,13 +448,13 @@ Here are just a few of the classic symbols found in Myth stories:
 
 **Key Point**: Even with these highly metaphorical symbols, their meaning is not fixed. Symbols are always ambiguous to some degree and ultimately depend on the reader and, especially, the context in which the symbol is used.
 
-## Myth Story Beat 12: Revelation—Opponents Attack
+## Myth Story Step 12: Revelation—Opponents Attack
 
 Over the course of the journey, the hero encounters opponents who attack in different ways. The hero has a revelation about each opponent's method of attack and comes up with unique plans to win.
 
 Occasionally, the hero has a mini self-revelation about his own capabilities after he has defeated the opponent.
 
-## Myth Story Beat 13: Gate, Gauntlet, Visit to the Underworld
+## Myth Story Step 13: Gate, Gauntlet, Visit to the Underworld
 
 On the journey, the hero finds his way into the underworld, the land of the dead. He sees his ancestors as well as his own future. He recognizes part of his self that is not examined. He is reminded to act during his limited time on earth and makes a narrow escape.
 
@@ -463,7 +463,7 @@ Dorothy and her allies "run the gauntlet" when they must walk down a long hallwa
 
 Dorothy's visit to death is also her apparent defeat. After the witch imprisons Dorothy in her castle, she flips an hourglass and says, "That's how much longer you've got to be alive."
 
-## Myth Story Beat 14: Violent Battle (Male Myth)
+## Myth Story Step 14: Violent Battle (Male Myth)
 
 At the end of the journey, the male warrior hero enters into a big, bloody final battle. The stakes are epic. He defeats his greatest opponent, but he may also die in the process.
 
@@ -475,9 +475,9 @@ The final battle begins with Colonel Quaritch leading a fleet of gunships to bom
 
 ### Female Myth Battle
 
-The battle step is another story beat that makes *The Wizard of Oz* a Female Myth. Twelve-year-old Dorothy doesn't wield a sword in a fierce violent battle with her nemesis. There is no battle at all. She and her friends try to run away, but they are quickly cornered by the Witch's troops. When the Witch sadistically makes Dorothy watch as she sets the Scarecrow on fire, Dorothy throws a bucket of water that accidentally soaks the Witch. Water is the Witch's Achilles' heel, and she dissolves into a pile of clothes.
+The battle step is another story step that makes *The Wizard of Oz* a Female Myth. Twelve-year-old Dorothy doesn't wield a sword in a fierce violent battle with her nemesis. There is no battle at all. She and her friends try to run away, but they are quickly cornered by the Witch's troops. When the Witch sadistically makes Dorothy watch as she sets the Scarecrow on fire, Dorothy throws a bucket of water that accidentally soaks the Witch. Water is the Witch's Achilles' heel, and she dissolves into a pile of clothes.
 
-## Myth Story Beat 15: Self-Revelation—Public/Cosmic Revelation
+## Myth Story Step 15: Self-Revelation—Public/Cosmic Revelation
 
 At the end of the battle the hero has a major self-revelation in which he realizes what he was born to do and that he always possessed the necessary abilities.
 
@@ -512,7 +512,7 @@ Myth is an earlier story form than Tragedy, which is the highest expression of D
 
 **Tragedy** involves cutting off life too early, with no rebirth of the hero, and only the bittersweet sense of what might have been. The hero may have a self-revelation, but it comes too late.
 
-## Myth Story Beat 16: New Equilibrium—Outgrow the Code
+## Myth Story Step 16: New Equilibrium—Outgrow the Code
 
 The hero returns home and is profoundly changed by his experience. Often he marries or remarries. The *Odyssey* is the textbook example of the remarriage of the hero.
 
@@ -563,7 +563,7 @@ Plot in Myth can be both linear and cyclical:
 
 In both Male and Female Myths, however, the hero's physical journey is often circular: the hero returns home, where he/she learns a truth that was always deep inside.
 
-**Key Point**: While the Female and Male Myth forms differ in a number of story beats as they play out the broader Myth genre, we could say that the basic thematic difference between them is this: **the Male Myth is about divide and conquer, while the Female Myth is about combine and grow.**
+**Key Point**: While the Female and Male Myth forms differ in a number of story steps as they play out the broader Myth genre, we could say that the basic thematic difference between them is this: **the Male Myth is about divide and conquer, while the Female Myth is about combine and grow.**
 
 ### Male Myth Characteristics
 - Linear plot based on the hunt/quest
@@ -694,7 +694,7 @@ The story begins by establishing Male Myth elements:
 - Parker's desire for unobtainium expresses primary value of tech culture: money
 - Expresses male recipe for success: divide and conquer
 
-The Female Myth beats take over as the story progresses:
+The Female Myth steps take over as the story progresses:
 
 **Multiple Rebirths**: Jake undergoes throughout the film:
 1. First rebirth: takes his twin brother's place ("One life ends, another begins")
@@ -721,7 +721,7 @@ Another new and transcendent Myth form is the Ecological Myth. It tracks the inv
 
 Over the course of the story, the hero changes from a technological to a natural human being. In effect she goes backward in time, both culturally (from cityscape to pastoral setting) and personally (from adult to child).
 
-The Ecological Myth shares some of the beats of Female Myth, especially multiple rebirths and the overall process of "combine and grow."
+The Ecological Myth shares some of the steps of Female Myth, especially multiple rebirths and the overall process of "combine and grow."
 
 In a final rebirth of the hero and the world, the main character becomes a new kind of person, combining nature and technology. At the same time, harmony is established between the city and nature. The hero learns how to live in the city with insights from nature and brings positive elements from the city to nature. This end point includes a marriage of science and myth. Civilized human is renewed through natural forces.
 

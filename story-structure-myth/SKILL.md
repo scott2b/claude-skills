@@ -55,7 +55,7 @@ Life is a journey in which one's ultimate goal is to understand oneself. Being i
 ## Bundled Resources
 
 **References:**
-- `references/myth-beats.md` - Comprehensive explanation of all Myth story beats, Male vs Female Myth, transcendent forms, examples (*The Lord of the Rings*, *The Wizard of Oz*, *Avatar*, *Black Panther*), and detailed guidance
+- `references/myth-steps.md` - Comprehensive explanation of all Myth story steps, Male vs Female Myth, transcendent forms, examples (*The Lord of the Rings*, *The Wizard of Oz*, *Avatar*, *Black Panther*), and detailed guidance
 
 **Assets:**
 - `assets/myth-structure-template.md` - Comprehensive template for documenting mythic structure
@@ -120,15 +120,15 @@ Before building Myth-specific elements, determine what structural foundation exi
 
 **If basic structure is undefined**: **STRONGLY RECOMMEND** using the **story-structure-7-steps** or **story-structure-22-step** skill FIRST to establish the foundation, then return to layer on Myth-specific elements.
 
-**If basic structure exists**: Proceed to add Myth beats and elements.
+**If basic structure exists**: Proceed to add Myth steps and elements.
 
-**Important**: Myth beats don't replace basic structure—they enhance it with genre-specific requirements.
+**Important**: Myth steps don't replace basic structure—they enhance it with genre-specific requirements.
 
-**Reference**: See `references/myth-beats.md` for how Myth beats relate to general story structure.
+**Reference**: See `references/myth-steps.md` for how Myth steps relate to general story structure.
 
 ### Step 4: Determine Myth Variation
 
-Myth comes in different forms with distinct story beats. Work with the writer to determine which variation fits their story:
+Myth comes in different forms with distinct story steps. Work with the writer to determine which variation fits their story:
 
 **A. Male Myth (Classic Warrior Journey)**
 Characteristics:
@@ -157,14 +157,14 @@ Characteristics:
 - Examples: *Avatar* (male warrior who transforms through female values), *Black Panther*
 
 **D. Transcendent Myth (Advanced)**
-Three major transcendent forms (optional, to be developed after core Myth beats):
+Three major transcendent forms (optional, to be developed after core Myth steps):
 1. **Creation Myth / Myth-Science Fiction Epic**: Tracks the development of a culture, worldwide zeitgeist, or Universal Mind
 2. **Female Myth** (as primary focus, not just element)
 3. **Ecological Myth**: Invasion of natural world by technological force, seeking balance
 
-Ask the writer which variation best fits their story vision. This will determine which beats to emphasize.
+Ask the writer which variation best fits their story vision. This will determine which steps to emphasize.
 
-**Reference**: See `references/myth-beats.md` for detailed explanation of Male vs Female Myth.
+**Reference**: See `references/myth-steps.md` for detailed explanation of Male vs Female Myth.
 
 ### Step 5: Build Story World (THE MOST IMPORTANT ELEMENT)
 
@@ -277,7 +277,7 @@ The story world is strongly connected to the natural world (forests, islands, oc
 
 **Use template**: Offer to create detailed story world document using `assets/story-world-template.md`.
 
-**Reference**: See `references/myth-beats.md` Story World section for detailed examples.
+**Reference**: See `references/myth-steps.md` Story World section for detailed examples.
 
 ### Step 6: Create Character Web
 
@@ -362,13 +362,13 @@ Myth deals in broad types of characters known as archetypes. Each archetype has 
 
 **Use template**: Offer to create detailed character web document using `assets/character-web-template.md`.
 
-**Reference**: See `references/myth-beats.md` Character Web section for all archetypes.
+**Reference**: See `references/myth-steps.md` Character Web section for all archetypes.
 
-### Step 7: Work Through Myth-Specific Story Beats
+### Step 7: Work Through Myth-Specific Story Steps
 
-Now layer the Myth beats onto the basic story structure. Consult `references/myth-beats.md` for detailed explanation of each beat.
+Now layer the Myth steps onto the basic story structure. Consult `references/myth-steps.md` for detailed explanation of each step.
 
-#### Myth Beat 1: Ghost—Difficult Birth and Losing the Father
+#### Myth Step 1: Ghost—Difficult Birth and Losing the Father
 
 **Questions:**
 - Does the story begin with the birth of the hero?
@@ -382,7 +382,7 @@ In more modern Myth stories, begin with the rebirth of the hero rather than lite
 
 **How/when does rebirth occur in your story?**
 
-#### Myth Beat 2: Weakness-Need—Becoming a Hero
+#### Myth Step 2: Weakness-Need—Becoming a Hero
 
 **Key Point**: The weakness-need of the Myth hero is often based on loss of the father. The hero tries to live up to expectations of an ideal father. In other words, the hero needs to become a hero.
 
@@ -393,7 +393,7 @@ In more modern Myth stories, begin with the rebirth of the hero rather than lite
 - What prevents them from seeing themselves as heroic?
 - How does the world of slavery reflect this weakness?
 
-#### Myth Beat 3: Inciting Event—Talisman
+#### Myth Step 3: Inciting Event—Talisman
 
 The hero gains a talisman with two essential features:
 1. No one, including the hero, knows the true power of this object
@@ -410,7 +410,7 @@ The hero gains a talisman with two essential features:
 **For Male Myth**: Often a sword (right action, enforcement)
 **For Female Myth**: Often non-violent object (ruby slippers, seeds, connection)
 
-#### Myth Beat 4: Desire—Journey and Destiny
+#### Myth Step 4: Desire—Journey and Destiny
 
 **Technique: External = Internal Journey**
 Make the hero's physical journey a physical manifestation of their internal journey.
@@ -434,7 +434,7 @@ Make the hero's physical journey a physical manifestation of their internal jour
 - What are the major stopping points?
 - How does the path eventually lead home (circular)?
 
-#### Myth Beat 5: Allies—Including Wise Old Man/Woman
+#### Myth Step 5: Allies—Including Wise Old Man/Woman
 
 **Questions for each ally:**
 - Who helps the hero on the journey?
@@ -445,7 +445,7 @@ Make the hero's physical journey a physical manifestation of their internal jour
 
 **For Female Myth**: Allies are particularly important and may be non-traditional (not warriors)
 
-#### Myth Beat 6: Opponent—Successive Strangers
+#### Myth Step 6: Opponent—Successive Strangers
 
 Due to the journey form, Myth opponents tend to be strangers who appear in succession.
 
@@ -469,7 +469,7 @@ Try to have at least one opponent present throughout the story, and make that th
 - Is there a hierarchy of opponents with alliances (iceberg opponent)?
 - Do any family members come along to provide ongoing conflict?
 
-#### Myth Beat 7: Drive—Symbolic Objects
+#### Myth Step 7: Drive—Symbolic Objects
 
 **Key Point**: External symbols always mean something within the hero. Like religion, Myth uses metaphors: symbols with established meaning.
 
@@ -503,7 +503,7 @@ Try to have at least one opponent present throughout the story, and make that th
 
 **Key Point**: Even with highly metaphorical symbols, their meaning is not fixed. Symbols are always ambiguous and depend on context.
 
-#### Myth Beat 8: Revelation—Opponents Attack
+#### Myth Step 8: Revelation—Opponents Attack
 
 Over the journey, the hero encounters opponents who attack in different ways.
 
@@ -513,7 +513,7 @@ Over the journey, the hero encounters opponents who attack in different ways.
 - Does the hero have mini self-revelations about their own capabilities?
 - Do revelations build in intensity?
 
-#### Myth Beat 9: Gate, Gauntlet, Visit to the Underworld
+#### Myth Step 9: Gate, Gauntlet, Visit to the Underworld
 
 **Gate/Gauntlet:**
 - How does conflict intensify to unbearable pressure?
@@ -528,7 +528,7 @@ Over the journey, the hero encounters opponents who attack in different ways.
 
 **Note**: In Female Myth, this may be more about facing mortality than literal underworld.
 
-#### Myth Beat 10: Battle—Violent or Values
+#### Myth Step 10: Battle—Violent or Values
 
 **For Male Myth:**
 At the end of the journey, the male warrior hero enters a big, bloody final battle. The stakes are epic. The hero defeats their greatest opponent, but may also die in the process.
@@ -545,7 +545,7 @@ The battle may not be violent at all. It may be about resourcefulness, problem-s
 
 **Example**: *The Wizard of Oz*—Dorothy doesn't wield a sword; she accidentally defeats the Witch with water while trying to save her friend.
 
-#### Myth Beat 11: Self-Revelation—Public/Cosmic Revelation
+#### Myth Step 11: Self-Revelation—Public/Cosmic Revelation
 
 The hero's self-revelation in Myth is not just personal. It takes two forms:
 
@@ -574,7 +574,7 @@ The hero gains a moral vision or epiphany of how an entire society should exist 
 - Jesus's Sermon on the Mount
 - Jake Sully's vision at the Tree of Souls in *Avatar*
 
-#### Myth Beat 12: New Equilibrium—Outgrow the Code
+#### Myth Step 12: New Equilibrium—Outgrow the Code
 
 The hero returns home profoundly changed by their experience. Often they marry or remarry.
 
@@ -594,7 +594,7 @@ The hero returns home profoundly changed by their experience. Often they marry o
 
 **For Female Myth**: Often emphasizes re-creating community and appreciating family.
 
-**Reference**: See `references/myth-beats.md` for detailed examples of each beat.
+**Reference**: See `references/myth-steps.md` for detailed examples of each step.
 
 ### Step 8: Develop Journey Structure
 
@@ -695,7 +695,7 @@ If the writer wants to transcend basic Myth into more ambitious forms, explore t
 
 **Examples**: *Avatar* (positive), *Dances with Wolves*, many Thomas Hardy novels
 
-**Reference**: See `references/myth-beats.md` "Transcending Myth" section for detailed guidance.
+**Reference**: See `references/myth-steps.md` "Transcending Myth" section for detailed guidance.
 
 ### Step 10: Assess Organic Connections
 
@@ -719,15 +719,15 @@ Based on the analysis:
 **For new mythic stories:**
 - Is story world detailed enough (most important element)?
 - Is character web established (Great Chain of Being)?
-- Are Myth beats present and connected?
+- Are Myth steps present and connected?
 - Is journey structure clear?
 - Are symbolic objects/places identified?
 - Is this Male, Female, or Hybrid Myth?
 - Are transcendent possibilities appropriate?
 
 **For existing drafts:**
-- Which Myth beats are present and working well?
-- Which beats are missing or underdeveloped?
+- Which Myth steps are present and working well?
+- Which steps are missing or underdeveloped?
 - Is story world sufficiently immersive?
 - Is the journey episodic or does it build?
 - Are symbolic elements consistent?
@@ -774,8 +774,8 @@ Based on the analysis:
 ## Important Reminders
 
 - **Story World is paramount**: The story world is the most important element in Myth. Spend the most time here.
-- **Layer on basic structure**: Myth beats enhance seven steps or twenty-two steps, they don't replace them.
-- **Male vs Female matters**: The distinction between Male and Female Myth affects almost every beat.
+- **Layer on basic structure**: Myth steps enhance seven steps or twenty-two steps, they don't replace them.
+- **Male vs Female matters**: The distinction between Male and Female Myth affects almost every step.
 - **Great Chain of Being**: Create a hierarchy of beings, not just human characters.
 - **Physical = Internal**: The physical journey must manifest the internal journey.
 - **Circular journey**: Most Myths are circular—hero returns home to discover what was always within.
@@ -786,7 +786,7 @@ Based on the analysis:
 - **Public and cosmic**: Myth self-revelation is both personal and larger than personal.
 - **Avoid episodic structure**: Use family trip or ongoing main opponent to prevent episodic meander.
 
-**Reference**: See `references/myth-beats.md` for all detailed principles, examples, and techniques.
+**Reference**: See `references/myth-steps.md` for all detailed principles, examples, and techniques.
 
 ## What This Skill Does NOT Do
 

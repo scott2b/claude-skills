@@ -12,12 +12,12 @@
 
 **Baseline (story-structure-crime)**:
 - SKILL.md: 6,254 words ≈ 8,300 tokens
-- references/crime-beats.md: 14,029 words ≈ 18,700 tokens
+- references/crime-steps.md: 14,029 words ≈ 18,700 tokens
 - **Total**: 20,283 words ≈ **27,000 tokens**
 
 **Distilled (story-structure-crime-distilled)**:
 - SKILL.md: 1,575 words ≈ 2,100 tokens
-- references/crime-beats-distilled.md: 1,515 words ≈ 2,000 tokens
+- references/crime-steps-distilled.md: 1,515 words ≈ 2,000 tokens
 - **Total**: 3,090 words ≈ **4,100 tokens**
 
 **Core Reduction**: 27,000 → 4,100 = **22,900 tokens saved (85% reduction)**
@@ -55,7 +55,7 @@
 **Removed**:
 - Detailed 5+ page case studies of *Breaking Bad*, *In Bruges*, *The Dark Knight*, *Crime and Punishment*, *Fargo*, *The Usual Suspects*
 - Long dialogue excerpts and scene breakdowns
-- Multiple examples for each beat
+- Multiple examples for each step
 
 **Preserved**:
 - Brief references to key examples
@@ -134,13 +134,13 @@
 - "Cat and mouse" conflict
 - "Obsessive cop technique"
 - "Poetic justice" - payment in kind, karmic reckoning
-- Specific Crime and Morality beat names and sequence
+- Specific Crime and Morality step names and sequence
 
 **Rationale**: These specific terms activate the model's semantic knowledge of Truby's framework.
 
-### 2. Critical Missing Beat Warning
+### 2. Critical Missing Step Warning
 **Preserved in full**:
-- Beat 8: Opponent's Plan and Main Counterattack
+- Step 8: Opponent's Plan and Main Counterattack
 - "**CRUCIAL AND OFTEN MISSING**"
 - "More intricate the plan + better hidden = better the plot"
 
@@ -151,8 +151,8 @@
 - File output requirement (timestamped documents)
 - 11-step task instruction workflow
 - Integration with 7-step/22-step foundation
-- Crime-specific beat sequence (15 beats)
-- Morality beat sequence (8 beats)
+- Crime-specific step sequence (15 steps)
+- Morality step sequence (8 steps)
 - Revelations and moral decisions tracking
 - Organic connections assessment
 - Validation checklist
@@ -183,8 +183,8 @@
 ### 6. Template Structure
 **Preserved**:
 - All essential sections of templates
-- Crime beats checklist
-- Morality beats checklist
+- Crime steps checklist
+- Morality steps checklist
 - Sequences tracking
 - Organic connections assessment
 - The Joker Standard comparison (in opponent-plan template)
@@ -202,8 +202,8 @@ YES - Analyzes and develops crime story structure using Truby's framework, creat
 ### ✅ Key Features Preserved
 **Are all essential capabilities still present?**
 YES:
-- All 15 Crime beats covered
-- All 8 Morality beats covered
+- All 15 Crime steps covered
+- All 8 Morality steps covered
 - Moral code development framework
 - Opponent's plan emphasis
 - Revelations and moral decisions sequencing
@@ -224,7 +224,7 @@ YES:
 - Cop vs criminal hero
 - Crime variations
 - Crime vs other genres
-- Opponent's plan as crucial missing beat
+- Opponent's plan as crucial missing step
 - Moral argument through plot
 - Poetic justice framework
 
@@ -254,7 +254,7 @@ By providing **essential lexical triggers** (specific terminology unique to Trub
 
 ### What Remains Detailed
 Only information that is:
-- **Unique to this specific framework** (Truby's particular beat structure)
+- **Unique to this specific framework** (Truby's particular step structure)
 - **Procedurally novel** (this skill's specific workflow)
 - **Critical and often missed** (opponent's plan emphasis)
 - **Truly proprietary** (templates, specific sequences)
@@ -293,7 +293,7 @@ Verify outcomes match what full version would produce.
 story-structure-crime-distilled/
 ├── SKILL.md (1,575 words)
 ├── references/
-│   └── crime-beats-distilled.md (1,515 words)
+│   └── crime-steps-distilled.md (1,515 words)
 └── assets/
     ├── crime-structure-template.md (549 words)
     ├── moral-code-template.md (380 words)

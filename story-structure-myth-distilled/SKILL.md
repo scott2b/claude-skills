@@ -38,7 +38,7 @@ For stories with:
 ## Bundled Resources
 
 **References:**
-- `references/myth-beats-distilled.md` - Myth story beats and variations
+- `references/myth-steps-distilled.md` - Myth story steps and variations
 
 **Assets:**
 - `assets/myth-analysis-template.md` - Comprehensive analysis template
@@ -77,7 +77,7 @@ Check if 7 key steps or 22 steps are established (weakness/need, desire, opponen
 
 **If undefined:** Strongly recommend using story-structure-7-steps or story-structure-22-step first.
 
-**Myth beats enhance, don't replace, basic structure.**
+**Myth steps enhance, don't replace, basic structure.**
 
 ### Step 4: Determine Myth Variation
 
@@ -169,9 +169,9 @@ Design hierarchy of beings (gods, angels, superheroes, heroes, kings, nobles, co
 - Non-traditional allies
 - Male ally as fake but useful
 
-### Step 7: Work Through Myth Story Beats
+### Step 7: Work Through Myth Story Steps
 
-Layer these Myth-specific beats onto basic structure:
+Layer these Myth-specific steps onto basic structure:
 
 **1. Ghost—Difficult Birth/Rebirth**
 - Begin with birth or rebirth of hero
@@ -285,7 +285,7 @@ Verify connections:
 
 **For new stories:** Which elements need development? Is story world detailed enough? Is character hierarchy established?
 
-**For existing drafts:** Which beats present/missing? Is journey episodic or building? Are symbolic elements consistent?
+**For existing drafts:** Which steps present/missing? Is journey episodic or building? Are symbolic elements consistent?
 
 **For diagnosis:** Is this truly Myth? Which variation? What would strengthen mythic elements?
 
@@ -315,8 +315,8 @@ Verify connections:
 ## Important Reminders
 
 - **Story World is paramount** - Most important element, spend most time here
-- **Layer on basic structure** - Myth beats enhance 7/22 steps, don't replace them
-- **Male vs Female matters** - Affects almost every beat
+- **Layer on basic structure** - Myth steps enhance 7/22 steps, don't replace them
+- **Male vs Female matters** - Affects almost every step
 - **Great Chain of Being** - Create hierarchy, not just human characters
 - **Physical = Internal** - External journey manifests internal journey
 - **Circular journey** - Hero returns home to discover what was always within
@@ -324,7 +324,7 @@ Verify connections:
 - **Immortality theme** - Destiny, legacy runs through all Myth
 - **Opponents challenge weaknesses** - Each targets different aspect
 - **Public and cosmic** - Self-revelation larger than personal
-- **Avoid episodic structure** - Use techniques to prevent "same beat" repetition
+- **Avoid episodic structure** - Use techniques to prevent "same step" repetition
 
 ## Integration with Other Skills
 

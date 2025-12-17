@@ -719,7 +719,7 @@ Opponents and Allies:
 - [ ] Each opponent defeat leads somewhere
 - [ ] Allies gained along journey have distinct functions
 - [ ] Family trip, ongoing opponent, or iceberg technique used
-- [ ] Avoids episodic "hitting same beat" problem
+- [ ] Avoids episodic "hitting same step" problem
 
 Revelations:
 - [ ] Target number achieved (7-10 or more)

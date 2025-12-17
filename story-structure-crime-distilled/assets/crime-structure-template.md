@@ -29,7 +29,7 @@
 
 ---
 
-## Crime Story Beats
+## Crime Story Steps
 
 ### 1. Story World
 **Type**: [ ] No crime (chaos) / [ ] Police state / [ ] Between extremes
@@ -106,7 +106,7 @@
 
 ---
 
-## Morality Beats (Transcendent Crime)
+## Morality Steps (Transcendent Crime)
 
 ### 1. Moral Universe
 **Responsibility**: How defined / Fate vs choice
