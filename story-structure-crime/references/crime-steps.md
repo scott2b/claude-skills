@@ -1,14 +1,14 @@
-# Crime Story Beats: Comprehensive Reference
+# Crime Story Steps: Comprehensive Reference
 
-This document provides detailed explanation of all Crime story beats, morality story beats, principles, techniques, and examples from John Truby's *The Anatomy of Genres* chapter 7: "Crime: Morality and Justice."
+This document provides detailed explanation of all Crime story steps, morality story steps, principles, techniques, and examples from John Truby's *The Anatomy of Genres* chapter 7: "Crime: Morality and Justice."
 
 ## Table of Contents
 
 1. [Crime Story Overview](#crime-story-overview)
 2. [The Crime Mind-Action Story View](#the-crime-mind-action-story-view)
 3. [Crime Compared to Other Genres](#crime-compared-to-other-genres)
-4. [Crime Story Beats (14 Beats)](#crime-story-beats)
-5. [Morality Story Beats (8 Beats)](#morality-story-beats)
+4. [Crime Story Steps (14 Steps)](#crime-story-steps)
+5. [Morality Story Steps (8 Steps)](#morality-story-steps)
 6. [Creating a Moral Code](#creating-a-moral-code)
 7. [Transcendent Crime](#transcendent-crime)
 8. [Key Techniques](#key-techniques)
@@ -91,9 +91,9 @@ Although Action shares certain elements of Crime, it is Crime's opposite themati
 
 ---
 
-## Crime Story Beats
+## Crime Story Steps
 
-### Crime Story Beat 1: Story World - Slavery of Superficial Society
+### Crime Story Step 1: Story World - Slavery of Superficial Society
 
 Crime stories focus on how people live together in society. Specifically, how do people get what they want when others say they cannot or should not want it?
 
@@ -112,7 +112,7 @@ Modern culture tries to walk the line between these two extremes to produce the 
 
 The society in the Crime story is also one of extreme wealth and poverty. The possibility of moving up the social ladder through hard work is almost gone. Therefore, some people turn to crime.
 
-### Crime Story Beat 2: Inciting Event - Crime
+### Crime Story Step 2: Inciting Event - Crime
 
 The criminal commits a crime that catapults him to a new level of wealth or power.
 
@@ -132,7 +132,7 @@ Before leaving, the Joker tells an injured customer, "I believe whatever doesn't
 
 **KEY POINT**: The more deception the criminal uses, the better the Crime story will be.
 
-### Crime Story Beat 3: Cop Hero Strengths and Weakness-Need
+### Crime Story Step 3: Cop Hero Strengths and Weakness-Need
 
 Within this dark and divided social world, we introduce the hero. In Crime, the hero is either the enforcer or the criminal. The fact that the hero can be either cop or outlaw means that we're exploring the mirror image of the person on either side of the law.
 
@@ -153,7 +153,7 @@ Even a master cop has a strong weakness-need:
 
 **Thematic implication**: The truly great individual is not the person with the most power, money, or status, even though those things are what the society publicly prizes the most. It's the person who does great work within the rules. This person wins the game not by cheating, but by playing straight.
 
-### Crime Story Beat 4: Values and Moral Code
+### Crime Story Step 4: Values and Moral Code
 
 In every genre the hero begins believing in a set of values that will then be challenged over the course of the story. In many genres, these values are so specific that they make up a moral code of ethics.
 
@@ -170,7 +170,7 @@ Since either cop or criminal can be the hero in a Crime story, here is the basic
 
 2. **Code of silence (omertà)**: In organized crime, especially the mafia, this is quite real. Here, the success of the organization, as opposed to the individual, makes this an absolute value broken at the cost of death.
 
-### Crime Story Beat 5: Desire - Catch a Criminal
+### Crime Story Step 5: Desire - Catch a Criminal
 
 In all genres, the desire line of the hero determines the spine of the story. Crime, like Horror, establishes the hero's desire after the opponent attacks.
 
@@ -206,7 +206,7 @@ When Crime subgenres like Social Drama have multiple heroes, they are more likel
 
 **Examples of multiple-hero-branching Social Drama**: *The Help*, *Traffic*, *Nashville*, *Crash*, *21 Grams*, *Babel*
 
-### Crime Story Beat 6: Opponent/Mystery - Super Criminal
+### Crime Story Step 6: Opponent/Mystery - Super Criminal
 
 The Crime opponent can be criminal or cop. Again, we're playing with the mirror image of the person on either side of the law.
 
@@ -228,11 +228,11 @@ There is no greater criminal than the Joker in *The Dark Knight*. He is a genius
 
 The Joker is literally the author of Gotham City, in that he constructs criminal plots that will remake the city to express his moral vision. Many have described the Joker as a nihilist, a man in love with chaos. But this is a serious misreading.
 
-If Batman is the Dark Knight, the Joker is the Dark Philosopher. The entire plot of *The Dark Knight* is a series of moral conundrums the Joker creates to expose what he believes is the true animal nature of humankind. This plot tracks the beats of the modern Crime story going all the way back to its origin, *Crime and Punishment*.
+If Batman is the Dark Knight, the Joker is the Dark Philosopher. The entire plot of *The Dark Knight* is a series of moral conundrums the Joker creates to expose what he believes is the true animal nature of humankind. This plot tracks the steps of the modern Crime story going all the way back to its origin, *Crime and Punishment*.
 
 **The Joker constructs ever more difficult versions of the genre's central question: What would you do if you had to choose between two bad moral options?**
 
-### Crime Story Beat 7: Drive - Cat and Mouse
+### Crime Story Step 7: Drive - Cat and Mouse
 
 The middle of the Crime story is a series of conflicts where cop and criminal match wits and force. This is the cat and mouse struggle, one-on-one, master cop versus master criminal.
 
@@ -266,9 +266,9 @@ This technique also brings up other key questions:
 
 This technique contributes to the biggest problem writers face in the Crime story plot. The cop crossing the line is so common to the form that we expect it. We know the cop will break the law for the higher good of catching the criminal. That makes the plot predictable. The best way to overcome predictability of plot is through deception.
 
-### Crime Story Beat 8: Opponent's Plan and Main Counterattack
+### Crime Story Step 8: Opponent's Plan and Main Counterattack
 
-**THIS IS THE MOST IMPORTANT AND MOST OFTEN MISSING BEAT.**
+**THIS IS THE MOST IMPORTANT AND MOST OFTEN MISSING STEP.**
 
 The opponent's strategy to get the goal. What hidden attacks has the opponent devised? How will these attacks be sprung on the hero (each is a revelation)? What is the main counterattack?
 
@@ -280,7 +280,7 @@ Most writers focus only on the hero's plan and forget that the opponent also has
 
 Make both cop and criminal masters of the game by using deception where each surprises the other and the audience. This includes where and how an attack will be made. It is especially important that each character hides their overall campaign of attack.
 
-### Crime Story Beat 9: Reveal - Criminal Uncovered
+### Crime Story Step 9: Reveal - Criminal Uncovered
 
 The crime reveal is usually about the trickery the criminal uses to escape the cop. To set this up, think of the criminal as an artist of crime.
 
@@ -288,7 +288,7 @@ Ask yourself: What are the hidden attacks that will cause the most trouble for t
 
 **Example - *The Dark Knight***: The Joker makes a video of a fake Batman and directly challenges the real Batman to catch him.
 
-### Crime Story Beat 10: Drive - Moral Argument
+### Crime Story Step 10: Drive - Moral Argument
 
 Like most genres, the Crime form highlights certain structural elements above others to get their effects. Crime emphasizes the moral argument, which focuses on the immoral and illegal actions the hero takes to win.
 
@@ -303,7 +303,7 @@ Here's an example of how plot might carry moral argument in a simple Crime story
 4. He then makes another mistake
 5. And so on...
 
-### Crime Story Beat 11: Apparent Defeat - The Criminal Escapes
+### Crime Story Step 11: Apparent Defeat - The Criminal Escapes
 
 The apparent defeat is when the hero believes he has lost the fight against the opponent. This is one of the main techniques for telling any story as dramatically as possible, since in the vast majority of cases the hero comes back to win.
 
@@ -311,23 +311,23 @@ In the Crime form, the apparent defeat occurs when the criminal escapes or wins 
 
 **Example - *The Dark Knight***: The Joker tricks Batman into going to the wrong location, and Rachel, the woman he loves, dies in an explosion.
 
-### Crime Story Beat 12: Gate-Gauntlet-Visit to Death - Chase
+### Crime Story Step 12: Gate-Gauntlet-Visit to Death - Chase
 
-The Gate-Gauntlet-Visit to Death beat usually happens just before the battle step. The hero is under immense pressure in the contest with the main opponent. This pressure often translates into the constricted space through which the hero moves. At this moment, he passes through a narrow gate, walks down a long gauntlet while being attacked from either side, and/or has a sense of his approaching death.
+The Gate-Gauntlet-Visit to Death step usually happens just before the battle step. The hero is under immense pressure in the contest with the main opponent. This pressure often translates into the constricted space through which the hero moves. At this moment, he passes through a narrow gate, walks down a long gauntlet while being attacked from either side, and/or has a sense of his approaching death.
 
-**The Crime version of this story beat is often a big chase.** Here Crime borrows from Action: the chase is cat and mouse at top speed.
+**The Crime version of this story step is often a big chase.** Here Crime borrows from Action: the chase is cat and mouse at top speed.
 
 #### Example - *The Dark Knight*: The Prisoner's Dilemma
 
-*The Dark Knight* gives us a brilliant expression of the beat. The Joker sets up a massive version of the Prisoner's Dilemma. In the Prisoner's Dilemma, police place two prisoners in separate rooms and give them each a choice: confess or stay silent. If one stays silent while the other confesses, the punishment will be more severe. So, because of distrust, each prisoner is tempted to betray the other.
+*The Dark Knight* gives us a brilliant expression of the step. The Joker sets up a massive version of the Prisoner's Dilemma. In the Prisoner's Dilemma, police place two prisoners in separate rooms and give them each a choice: confess or stay silent. If one stays silent while the other confesses, the punishment will be more severe. So, because of distrust, each prisoner is tempted to betray the other.
 
 The Joker re-creates the Prisoner's Dilemma on a grand scale by setting two ships against each other. One is filled with commuters, the other with hardened criminals. The passengers are given the choice of pushing a button to blow up the other ship before the other ship destroys them. If neither ship pulls the trigger by midnight, the Joker will destroy them both.
 
 His assumption: when forced to choose between trusting the humanity of strangers and their own survival, each group will kill the other.
 
-The brilliance of this plot beat comes from the larger plot and thematic sequence of the story. Up until this moment, the Joker has forced Batman to make a series of moral choices that have become progressively more difficult. They are all designed to make the case that man is just an animal with a thin veneer of morality. Now the Joker takes the choice out of Batman's hands. The Joker will use a herd of humans to prove his point.
+The brilliance of this plot step comes from the larger plot and thematic sequence of the story. Up until this moment, the Joker has forced Batman to make a series of moral choices that have become progressively more difficult. They are all designed to make the case that man is just an animal with a thin veneer of morality. Now the Joker takes the choice out of Batman's hands. The Joker will use a herd of humans to prove his point.
 
-### Crime Story Beat 13: Violent Battle or Big Revelation
+### Crime Story Step 13: Violent Battle or Big Revelation
 
 Since the Crime story desire is to catch a criminal, the battle is the final violent confrontation between criminal and cop. Usually this happens in a pitched gunfight deep in the bowels of the city.
 
@@ -335,9 +335,9 @@ Since the Crime story desire is to catch a criminal, the battle is the final vio
 
 #### In Transcendent Crime Stories
 
-In transcendent Crime stories, this beat may be a big reveal, which moves the Crime story closer to the Detective genre. The crime reveal is usually based on the trickery the criminal uses to escape the cop.
+In transcendent Crime stories, this step may be a big reveal, which moves the Crime story closer to the Detective genre. The crime reveal is usually based on the trickery the criminal uses to escape the cop.
 
-To see why this beat is found in transcendent Crime stories, we must remember that the criminal is an artist. To defeat the cop he must use extreme trickery. **The closer you can push the big reveal to the end of the story, the better the story will be.**
+To see why this step is found in transcendent Crime stories, we must remember that the criminal is an artist. To defeat the cop he must use extreme trickery. **The closer you can push the big reveal to the end of the story, the better the story will be.**
 
 #### Example - *The Usual Suspects*
 
@@ -353,7 +353,7 @@ The final reveal is one of the keys to great plotting in any story form. For man
 
 **Plan your reveals at the beginning of the story. Make each part of the opponent's overall, interconnected campaign of attack against the hero.**
 
-### Crime Story Beat 14: Self-Revelation - Society Reaffirmed
+### Crime Story Step 14: Self-Revelation - Society Reaffirmed
 
 The normal self-revelation in the Crime story occurs when the cop reaffirms the values of living in society and within the law. This is true even if the citizens are relatively shallow and do not appreciate him.
 
@@ -371,7 +371,7 @@ The normal self-revelation in the Crime story occurs when the cop reaffirms the 
 
 Batman decides to let District Attorney Harvey Dent die a hero, so the people will have hope in justice. Batman, the true hero, takes the role of the scapegoat. The society is reaffirmed through lying.
 
-### Crime Story Beat 15: Moral Argument Conclusion - Poetic Justice
+### Crime Story Step 15: Moral Argument Conclusion - Poetic Justice
 
 In the standard Crime story, the conclusion of the moral argument is simple: the criminal is punished and the law is upheld.
 
@@ -416,9 +416,9 @@ We see examples of poetic justice in Detective stories like *Murder on the Orien
 
 ---
 
-## Morality Story Beats
+## Morality Story Steps
 
-For transcendent Crime stories (Epic Crime Tragedy and Crime Black Comedy), the writer must layer morality story beats on top of the basic Crime beats. These eight beats create the advanced moral argument that elevates Crime to its highest form.
+For transcendent Crime stories (Epic Crime Tragedy and Crime Black Comedy), the writer must layer morality story steps on top of the basic Crime steps. These eight steps create the advanced moral argument that elevates Crime to its highest form.
 
 ### The Art and Story of Morality
 
@@ -449,11 +449,11 @@ A personal moral code is a more condensed system of values and actions that the 
 
 The technique of creating a story's moral code matches the most important revolution in moral theory of the last two hundred years: Nietzsche's idea that all moral systems are created by man, not by God.
 
-**KEY POINT**: Every moral code is also a Story Code. Moses getting the Ten Commandments is not just the "cosmic vision" plot beat found in the Book of Exodus. It is a story unto itself.
+**KEY POINT**: Every moral code is also a Story Code. Moses getting the Ten Commandments is not just the "cosmic vision" plot step found in the Book of Exodus. It is a story unto itself.
 
-You create a moral system by using the seven major structure steps plus the various beats of the moral argument.
+You create a moral system by using the seven major structure steps plus the various steps of the moral argument.
 
-### Morality Beat 1: Story World - The Moral Universe
+### Morality Step 1: Story World - The Moral Universe
 
 Everyone is born into a world with a highly detailed moral system already in place. This system has a major effect on how the individual creates their personal moral code.
 
@@ -513,7 +513,7 @@ The reason this technique is found mostly in television is that the story often 
 3. Each episode has at least one unique moral challenge for the lead character(s)
 4. These moral challenges not only define each episode, they determine how the best shows sequence their episodes in a season
 
-### Morality Beat 2: Character Web - Moral Code
+### Morality Step 2: Character Web - Moral Code
 
 The characters, especially the hero, have certain essential beliefs and values. These values make up the hero's personal moral code and guide her actions.
 
@@ -550,7 +550,7 @@ We see the moral code in moments when the character deals with a specific moral 
 > CAPTAIN SMITH: Then, for the love of God, don't be a detective. Stick to assignments where you don't have ...
 > ED EXLEY: Dudley, I know you mean well, but I don't need to do it the way you did. Or my father.
 
-### Morality Beat 3: Opposition - The Good vs. the Right
+### Morality Step 3: Opposition - The Good vs. the Right
 
 The hero runs up against a strong opponent who wants to prevent her from getting the goal.
 
@@ -565,7 +565,7 @@ Values and action are intimately connected. In the practical art of morality, th
 
 In spite of this basic trade-off between the good and the right, the right depends on the good. Before we can decide what is a right versus wrong action, we must first make an assessment of value.
 
-### Morality Beat 4: Plan - Values and Right and Wrong Action
+### Morality Step 4: Plan - Values and Right and Wrong Action
 
 The hero concocts a plan that will defeat the opponent and win the goal.
 
@@ -583,7 +583,7 @@ The game plan in a moral code is fundamentally different from the game plan in a
 
 **KEY POINT**: A moral code is a game plan for how to win only desirable goals using only proper actions.
 
-### Morality Beat 5: Drive - Assessing Ends vs. Means
+### Morality Step 5: Drive - Assessing Ends vs. Means
 
 Because the opponent is initially too strong, the hero becomes desperate and begins to take immoral actions to get the goal.
 
@@ -613,7 +613,7 @@ Just as all moral codes are story codes, the seven-step Story Code is also a mor
 
 Story magnifies this conflict between freedom and justice through drama. The hero begins with a set of values and a goal. But she doesn't just want the goal; she is obsessed with getting it. Story heightens the conflict even more by having the hero lose to the opponent through the early and middle parts of the story. This creates moral pressure as the hero must decide how far she will go to win. In desperation, she starts taking immoral actions to gain the goal. There comes a time when she decides to do anything to win. The question becomes: Is losing her morality to gain the goal a worse form of enslavement?
 
-### Morality Beat 6: Attack by Ally - Shame and Guilt
+### Morality Step 6: Attack by Ally - Shame and Guilt
 
 During the middle of the story, the hero's ally attacks her by saying that he shares the hero's goal, but believes her actions to get the goal are immoral and must stop.
 
@@ -640,7 +640,7 @@ In this brilliant scene of advanced moral argument, hero Ken and opponent Harry 
 > HARRY: Ken, if I had killed a little kid, accidentally or otherwise, I wouldn't have thought twice. I'd've killed myself on the fucking spot. On the fucking spot. I'd've stuck the gun in me mouth. On the fucking spot.
 > KEN: That's you, Harry. The boy has the capacity to change. The boy has the capacity to do something decent with his life.
 
-### Morality Beat 7: Battle, Moral Self-Revelation, and Moral Decision
+### Morality Step 7: Battle, Moral Self-Revelation, and Moral Decision
 
 The "battle" moment in any moral code is the moment when the individual sees the deeper clash of value systems at stake and must decide what course of action to take.
 
@@ -668,7 +668,7 @@ In the final sequence of actions leading up to Raskolnikov's moral self-revelati
 
 When Raskolnikov learns of the man's suicide at the police station, he leaves, apparently free. But Sonya, the woman he loves, who has urged him to confess, is waiting there. His moral self-revelation comes from seeing her gaze, her goodness, and her righteousness. His moral decision is to go back inside and turn himself in.
 
-### Morality Beat 8: Thematic Revelation
+### Morality Step 8: Thematic Revelation
 
 A thematic revelation is where the moral code rises to another level of understanding. No longer limited to the self-revelation of one individual, the moral code grows and becomes a guideline for all people in how to live morally.
 
@@ -823,7 +823,7 @@ By adding epic, this subgenre of Crime highlights the moral system of an entire 
 
 #### *Crime and Punishment*
 
-Just as Edgar Allan Poe created the Detective story and Mary Shelley created the transcendent Horror story, Fyodor Dostoevsky created the Epic Crime Tragedy. *Crime and Punishment* defines the beats of the criminal-as-hero story.
+Just as Edgar Allan Poe created the Detective story and Mary Shelley created the transcendent Horror story, Fyodor Dostoevsky created the Epic Crime Tragedy. *Crime and Punishment* defines the steps of the criminal-as-hero story.
 
 This form transcends the genre in three ways:
 1. By moving it to the level of tragedy

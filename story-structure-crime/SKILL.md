@@ -26,6 +26,14 @@ Writers need persistent artifacts they can:
 
 Crime is fictional moral philosophy. The Crime story is about people who break the law and those who catch them, based on the starting principle that everyone in society has equal rights as human beings. Crime stories help writers explore the arts of morality and justice, distinguish between legality and morality (what the law allows vs what is good and right), create moral accounting systems (what one owes vs what one is owed), develop opponents who are master criminals with brilliant plans, build cat-and-mouse conflict where both sides are equally matched, sequence moral decisions that build in complexity, achieve poetic justice through karmic reckoning, and transcend into Epic Crime Tragedy or Crime Black Comedy.
 
+## Terminology Note: Steps vs. Beats
+
+This skill uses "step" to refer to major structural checkpoints in Crime story structure (Crime Step 1, Crime Step 2, etc.). These are significant plot points and turning points that shape the overall narrative arc.
+
+**Important distinction**: These structural "steps" are not the same as scene-level "beats." In standard screenwriting and fiction terminology, a "beat" typically refers to a small moment within a scene—a pause, a reaction, a micro-shift in emotion or power. The Crime steps described here are much larger structural elements, comparable to plot points or acts.
+
+This terminology follows Truby's *The Anatomy of Story* (which uses "steps" for the 22-step structure) rather than *The Anatomy of Genres* (which uses "beats" for genre-specific checkpoints). We've standardized on "steps" for clarity and consistency across all Truby-based skills.
+
 ## When to Invoke This Skill
 
 Invoke this skill when writers are creating:
@@ -53,7 +61,7 @@ Life is a constant attempt at moral accounting. In trying to reach one's desires
 ## Bundled Resources
 
 **References:**
-- `references/crime-beats.md` - Comprehensive explanation of all Crime story beats, moral argument beats, transcendent forms, examples (*The Dark Knight*, *Breaking Bad*, *In Bruges*, *Crime and Punishment*), and detailed guidance
+- `references/crime-steps.md` - Comprehensive explanation of all Crime story steps, moral argument steps, transcendent forms, examples (*The Dark Knight*, *Breaking Bad*, *In Bruges*, *Crime and Punishment*), and detailed guidance
 
 **Assets:**
 - `assets/crime-structure-template.md` - Comprehensive template for documenting crime structure
@@ -119,11 +127,11 @@ Before building Crime-specific elements, determine what structural foundation ex
 
 **If basic structure is undefined**: **STRONGLY RECOMMEND** using the **story-structure-7-steps** or **story-structure-22-step** skill FIRST to establish the foundation, then return to layer on Crime-specific elements.
 
-**If basic structure exists**: Proceed to add Crime beats and moral argument elements.
+**If basic structure exists**: Proceed to add Crime steps and moral argument elements.
 
-**Important**: Crime beats don't replace basic structure—they enhance it with genre-specific moral requirements.
+**Important**: Crime steps don't replace basic structure—they enhance it with genre-specific moral requirements.
 
-**Reference**: See `references/crime-beats.md` for how Crime beats relate to general story structure.
+**Reference**: See `references/crime-steps.md` for how Crime steps relate to general story structure.
 
 ### Step 4: Determine Crime Variation
 
@@ -178,9 +186,9 @@ Characteristics:
 - Often involves moral accounting gone absurdly wrong
 - Examples: *Breaking Bad*, *Fargo*, *In Bruges*, *No Country for Old Men*, *Blood Simple*, *Parasite*
 
-Ask the writer which variations best fit their story vision. This will determine which beats to emphasize.
+Ask the writer which variations best fit their story vision. This will determine which steps to emphasize.
 
-**Reference**: See `references/crime-beats.md` for detailed explanation of each variation.
+**Reference**: See `references/crime-steps.md` for detailed explanation of each variation.
 
 ### Step 5: Define the Moral Universe and Story World
 
@@ -219,11 +227,11 @@ Modern culture tries to walk the line between these extremes to produce the best
 
 **Key Point**: Without choice, there is no responsibility and no morality, and vice versa. Once we are willing to take responsibility, we have choice.
 
-### Step 6: Work Through Crime Story Beats
+### Step 6: Work Through Crime Story Steps
 
-Work through each Crime beat systematically. Consult `references/crime-beats.md` for detailed explanation of each beat.
+Work through each Crime step systematically. Consult `references/crime-steps.md` for detailed explanation of each step.
 
-#### Crime Beat 1: Inciting Event - Crime
+#### Crime Step 1: Inciting Event - Crime
 
 The criminal commits a crime that catapults them to a new level of wealth or power.
 
@@ -239,7 +247,7 @@ Because the story often tracks the master criminal, whether hero or opponent, ma
 
 **Key Point**: The more deception the criminal uses, the better the Crime story will be.
 
-#### Crime Beat 2: Hero Strengths and Weakness-Need
+#### Crime Step 2: Hero Strengths and Weakness-Need
 
 **If hero is cop:**
 - What makes them regular but especially good at their job (master cop)?
@@ -255,7 +263,7 @@ Because the story often tracks the master criminal, whether hero or opponent, ma
 
 **Thematic implication**: The truly great individual is not the person with most power, money, or status, but the person who does great work within the rules, who wins the game not by cheating but by playing straight.
 
-#### Crime Beat 3: Values and Moral Code
+#### Crime Step 3: Values and Moral Code
 
 In every genre the hero begins believing in a set of values that will be challenged over the course of the story.
 
@@ -282,7 +290,7 @@ Create a written moral code for your hero. Include specific rules, values, and g
 
 **Use template**: Offer to create moral code document using `assets/moral-code-template.md`.
 
-#### Crime Beat 4: Desire
+#### Crime Step 4: Desire
 
 **With cop hero**: Desire is to catch a criminal. Different from Detective form (find truth). Crime genre blends Detective and Action: cop figures out fairly easily who did it, then emphasis shifts to battle of wits as cop tries to catch criminal.
 
@@ -299,7 +307,7 @@ Make the criminal at least partially justified in breaking the law to get what t
 1. Criminal hero becomes more complex and appealing
 2. Cop is torn between desire to catch criminal and desire for criminal to succeed
 
-#### Crime Beat 5: Opponent/Mystery - Super Criminal
+#### Crime Step 5: Opponent/Mystery - Super Criminal
 
 **The opponent can be criminal or cop** (mirror image on either side of law).
 
@@ -326,7 +334,7 @@ Make the criminal at least partially justified in breaking the law to get what t
 - If opponent is hidden early in story, what mystery compensates?
 - How does mystery replace ongoing hero-opponent conflict until reveal?
 
-#### Crime Beat 6: Drive - Cat and Mouse
+#### Crime Step 6: Drive - Cat and Mouse
 
 The middle of the Crime story is a series of conflicts where cop and criminal match wits and force. This is the cat and mouse struggle, one-on-one, master cop versus master criminal.
 
@@ -348,9 +356,9 @@ During the Drive, show the cop becoming obsessed and going too far to catch the 
 - How does this make cop similar to criminal?
 - How does this explore thin line between inside and outside law?
 
-#### Crime Beat 7: Opponent's Plan and Main Counterattack
+#### Crime Step 7: Opponent's Plan and Main Counterattack
 
-**This beat is crucial and often missing.**
+**This step is crucial and often missing.**
 
 **Key Point**: The more intricate the opponent's plan, and the better it's hidden, the better the plot will be.
 
@@ -366,7 +374,7 @@ Make both cop and criminal masters of the game by using deception where each sur
 
 **Use template**: Offer to create opponent's plan document using `assets/opponent-plan-template.md`.
 
-#### Crime Beat 8: Revelation - Criminal Uncovered
+#### Crime Step 8: Revelation - Criminal Uncovered
 
 The crime reveal is usually about the trickery the criminal uses to escape the cop. Think of the criminal as an artist of crime.
 
@@ -380,7 +388,7 @@ The crime reveal is usually about the trickery the criminal uses to escape the c
 **Technique: Plan Reveals at Beginning**
 Plan your reveals at the beginning of the story. Make each part of the opponent's overall, interconnected campaign of attack against the hero.
 
-#### Crime Beat 9: Drive - Moral Argument
+#### Crime Step 9: Drive - Moral Argument
 
 Crime emphasizes the moral argument, which focuses on the immoral and illegal actions the hero takes to win. To prevent theme from being heavy-handed, express moral argument through plot.
 
@@ -398,7 +406,7 @@ Crime emphasizes the moral argument, which focuses on the immoral and illegal ac
 - What is the moral accounting (what hero owes vs is owed)?
 - How does the ledger become increasingly unbalanced?
 
-#### Crime Beat 10: Apparent Defeat - The Criminal Escapes
+#### Crime Step 10: Apparent Defeat - The Criminal Escapes
 
 The apparent defeat occurs when the criminal escapes or wins a major victory. The hero believes they've lost the fight.
 
@@ -408,9 +416,9 @@ The apparent defeat occurs when the criminal escapes or wins a major victory. Th
 - What is hero's emotional state at lowest point?
 - How explosive and devastating is this defeat?
 
-#### Crime Beat 11: Gate-Gauntlet-Visit to Death - Chase
+#### Crime Step 11: Gate-Gauntlet-Visit to Death - Chase
 
-The Crime version of this beat is often a big chase. Crime borrows from Action: the chase is cat and mouse at top speed.
+The Crime version of this step is often a big chase. Crime borrows from Action: the chase is cat and mouse at top speed.
 
 **Gate/Gauntlet:**
 - How does conflict intensify to unbearable pressure?
@@ -426,13 +434,13 @@ The Crime version of this beat is often a big chase. Crime borrows from Action: 
 - How does it build to battle?
 - How does it function as cat and mouse at top speed?
 
-#### Crime Beat 12: Violent Battle or Big Revelation
+#### Crime Step 12: Violent Battle or Big Revelation
 
 Since Crime story desire is to catch a criminal, the battle is the final violent confrontation between criminal and cop. Usually in pitched gunfight deep in bowels of city (though avoid cliché of creepy warehouse).
 
-**This beat is the final legal accounting in the story, almost always enforced with a gun.**
+**This step is the final legal accounting in the story, almost always enforced with a gun.**
 
-**In transcendent Crime stories, this beat may be a big reveal** (moves Crime closer to Detective). The crime reveal is usually based on the trickery the criminal uses to escape the cop. The closer you push the big reveal to the end, the better.
+**In transcendent Crime stories, this step may be a big reveal** (moves Crime closer to Detective). The crime reveal is usually based on the trickery the criminal uses to escape the cop. The closer you push the big reveal to the end, the better.
 
 **Questions:**
 - What is the final confrontation?
@@ -449,7 +457,7 @@ If using a big reveal, ensure:
 - It recontextualizes everything that came before
 - It occurs as close to the end as possible
 
-#### Crime Beat 13: Self-Revelation - Society Reaffirmed
+#### Crime Step 13: Self-Revelation - Society Reaffirmed
 
 **Normal self-revelation**: Cop reaffirms the values of living in society and within the law, even if citizens are relatively shallow and don't appreciate them.
 
@@ -464,7 +472,7 @@ If using a big reveal, ensure:
 - Is revelation positive, negative, or mixed?
 - How is revelation shown through action, not statement?
 
-#### Crime Beat 14: Moral Argument Conclusion - Poetic Justice
+#### Crime Step 14: Moral Argument Conclusion - Poetic Justice
 
 **Basic moral accounting**: The criminal is punished and the law is upheld. But while justice system enforces legal accounting, it doesn't necessarily produce justice. Laws are only rough estimate of moral accounting.
 
@@ -479,22 +487,22 @@ If using a big reveal, ensure:
 - Are the moral books balanced?
 - What is the karmic reckoning?
 
-### Step 7: Work Through Morality Story Beats (For Transcendent Crime)
+### Step 7: Work Through Morality Story Steps (For Transcendent Crime)
 
-For writers creating transcendent Crime (Epic Crime Tragedy or Crime Black Comedy), work through the eight morality story beats. These provide the advanced moral argument that elevates Crime to its highest form.
+For writers creating transcendent Crime (Epic Crime Tragedy or Crime Black Comedy), work through the eight morality story steps. These provide the advanced moral argument that elevates Crime to its highest form.
 
 **Key Point**: The most important technique for creating finest transcendent Crime stories is to set up a moral universe that constantly tests the moral fiber of every character in the story.
 
-#### Morality Beat 1: Story World - The Moral Universe
+#### Morality Step 1: Story World - The Moral Universe
 
 **Covered in Step 5.2 above.** Ensure moral universe is defined with:
 - Clear view of responsibility (who is responsible for what)
 - Clear view of choice (what choices exist, what constraints)
 - Moral consequences for all actions
 
-#### Morality Beat 2: Character Web - Moral Code
+#### Morality Step 2: Character Web - Moral Code
 
-**Covered in Crime Beat 3 above.** Ensure detailed moral code is written for hero (and ideally for opponent and major allies).
+**Covered in Crime Step 3 above.** Ensure detailed moral code is written for hero (and ideally for opponent and major allies).
 
 **Key Point**: The crucial question in any moral code is how much of your values are about helping yourself versus how much you care how your actions will affect others.
 
@@ -504,7 +512,7 @@ Embed the moral code over the course of the plot in three main places:
 2. In the middle, hero takes right and wrong actions while trying to get goal
 3. Hero's final moral decision determines whether moved to higher moral level
 
-#### Morality Beat 3: Opposition - The Good vs. the Right
+#### Morality Step 3: Opposition - The Good vs. the Right
 
 **The internal opposition in any moral code and moral argument is: ends = the good vs. means = the right**
 
@@ -519,7 +527,7 @@ Embed the moral code over the course of the plot in three main places:
 
 **Key Point**: The right depends on the good. Before we can decide what is right vs wrong action, we must first make an assessment of value.
 
-#### Morality Beat 4: Plan - Values and Right and Wrong Action
+#### Morality Step 4: Plan - Values and Right and Wrong Action
 
 A moral code is a game plan for how to act in various situations when seeking a goal. Relative moral codes allow for different situations, circumstances, and exceptions.
 
@@ -536,7 +544,7 @@ A moral code is a game plan for how to act in various situations when seeking a 
 - What actions does hero rule out?
 - How will plan be tested?
 
-#### Morality Beat 5: Drive - Assessing Ends vs. Means
+#### Morality Step 5: Drive - Assessing Ends vs. Means
 
 Because opponent is initially too strong, hero becomes desperate and begins to take immoral actions to get the goal.
 
@@ -556,7 +564,7 @@ On simple level, freedom and justice conflict (if you regulate my actions for th
 
 **The Story Code tracks a human being chasing value ("the good") and using questionable means ("the right") to get it.**
 
-#### Morality Beat 6: Attack by Ally - Shame and Guilt
+#### Morality Step 6: Attack by Ally - Shame and Guilt
 
 During middle of story, hero's ally attacks them by saying they share hero's goal but believe hero's actions to get goal are immoral and must stop. Ally gives reasons why hero's actions are wrong and will cause harm. But hero does not listen and instead tries to justify each act.
 
@@ -571,7 +579,7 @@ During middle of story, hero's ally attacks them by saying they share hero's goa
 - Does hero feel shame or guilt?
 - How does hero's mind punish itself?
 
-#### Morality Beat 7: Battle, Moral Self-Revelation, and Moral Decision
+#### Morality Step 7: Battle, Moral Self-Revelation, and Moral Decision
 
 **The battle** is the vortex point of plot and makes plot speed up. The hero's **final moral decision** is vortex point of theme and clarifies which way of life is best.
 
@@ -599,7 +607,7 @@ No matter how complex the conflict of values, funnel it down to a single decisio
 **Technique: Final Decision**
 Funnel all complexity down to single decision between two clear choices at the end.
 
-#### Morality Beat 8: Thematic Revelation
+#### Morality Step 8: Thematic Revelation
 
 A thematic revelation is where the moral code rises to another level of understanding. No longer limited to self-revelation of one individual, the moral code grows and becomes guideline for all people in how to live morally.
 
@@ -676,15 +684,15 @@ Based on the analysis:
 - Are hero and opponent equally matched?
 - Is opponent's plan intricate and hidden?
 - Is hero's moral code detailed?
-- Are Crime beats present and connected?
+- Are Crime steps present and connected?
 - Does cat-and-mouse conflict build?
 - Is this cop hero or criminal hero?
 - Is this standard Crime, Epic Tragedy, or Black Comedy?
-- For transcendent: are morality beats tracked?
+- For transcendent: are morality steps tracked?
 
 **For existing drafts:**
-- Which Crime beats are present and working well?
-- Which beats are missing or underdeveloped?
+- Which Crime steps are present and working well?
+- Which steps are missing or underdeveloped?
 - Is opponent's plan detailed enough (most common weakness)?
 - Does cat-and-mouse conflict maintain intensity?
 - Are revelations building or stalling?
@@ -734,7 +742,7 @@ Based on the analysis:
 ## Important Reminders
 
 - **Moral argument is paramount**: Crime is fictional moral philosophy. Advanced moral argument is what makes Crime transcendent.
-- **Layer on basic structure**: Crime beats enhance seven steps or twenty-two steps, they don't replace them.
+- **Layer on basic structure**: Crime steps enhance seven steps or twenty-two steps, they don't replace them.
 - **Opponent's plan crucial**: Most writers miss this. The more intricate the opponent's plan and the better it's hidden, the better the plot.
 - **Cop and criminal as mirror images**: Hero can be either, and they should be similar in key ways.
 - **Equal ability essential**: Both cop and criminal must be best at their jobs and equal in ability for heavyweight fight.
@@ -752,7 +760,7 @@ Based on the analysis:
 - **Attack by ally**: During middle, ally criticizes hero's immoral actions; hero justifies.
 - **Final moral decision**: Funnel all complexity to single decision between two choices at end.
 
-**Reference**: See `references/crime-beats.md` for all detailed principles, examples, and techniques.
+**Reference**: See `references/crime-steps.md` for all detailed principles, examples, and techniques.
 
 ## What This Skill Does NOT Do
 
